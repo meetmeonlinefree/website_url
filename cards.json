@@ -1,7 +1,7 @@
 [
-  { "title": "Тест (Обычный)" },
-  { "title": "Мувофиковары" },
-  { "title": "Random" },
-  { "title": "Пройти тест" },
-  { "title": "Выход" }
+  { "title": "Тест (Обычный)", "icon": "ic_test" },
+  { "title": "Мувофиковары", "icon": "ic_match" },
+  { "title": "Random", "icon": "ic_random" },
+  { "title": "Пройти тест", "icon": "ic_start" },
+  { "title": "Выход", "icon": "ic_start" }
 ]
