@@ -34,5 +34,53 @@
     ],
     "correctIndex": 3,
     "image": "images/pushkin.png"
+  },
+  {
+    "id": 4,
+    "question": "Какое устройство используется для измерения температуры?",
+    "options": [
+      "Барометр",
+      "Термометр",
+      "Гигрометр",
+      "Манометр"
+    ],
+    "correctIndex": 1,
+    "image": "images/thermometer.png"
+  },
+  {
+    "id": 5,
+    "question": "Что из перечисленного является газом при комнатной температуре?",
+    "options": [
+      "Вода",
+      "Кислород",
+      "Железо",
+      "Песок"
+    ],
+    "correctIndex": 1,
+    "image": "images/oxygen_gas.png"
+  },
+  {
+    "id": 6,
+    "question": "Какой язык программирования используется для разработки Android-приложений?",
+    "options": [
+      "Python",
+      "Java",
+      "C++",
+      "HTML"
+    ],
+    "correctIndex": 1,
+    "image": "images/java_logo.png"
+  },
+  {
+    "id": 7,
+    "question": "Какая планета самая близкая к Солнцу?",
+    "options": [
+      "Венера",
+      "Марс",
+      "Меркурий",
+      "Юпитер"
+    ],
+    "correctIndex": 2,
+    "image": "images/mercury.png"
   }
 ]
