@@ -12,5 +12,19 @@
     "imageUrl": "",
     "correctAnswer": "8",
     "answerType": "numeric"
+  },
+  {
+    "id": 3,
+    "question": "Дуюмин мисол: як математики оддӣ, нишон диҳед 15 + 3 = ?",
+    "imageUrl": "",
+    "correctAnswer": "18",
+    "answerType": "numeric"
+  },
+  {
+    "id": 4,
+    "question": "Дуюмин мисол: як математики оддӣ, нишон диҳед 150 + 3 = ?",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8p1O0lNJSNxtZ9fqFdjEpW_kMg8GIWf0OTA&s",
+    "correctAnswer": "153",
+    "answerType": "numeric"
   }
 ]
