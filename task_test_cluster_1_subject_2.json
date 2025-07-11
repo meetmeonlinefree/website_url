@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "question": "Ҳангоми ба системаи термодинамикӣ додани миқдори муайяни гармӣ энергияи дохилии система ба ΔU = 200 Ҷ тағйир ёфта, система ба муқобили қувваҳои беруна кори А = 50 Ҷ-ро иҷро кард. Миқдори гармии ба система додашударо муайян кунед. Ҷавобро дар СИ ифода намоед.",
-    "imageUrl": "https://example.com/images/task1.png",
-    "correctAnswer": "250",
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/1.png",
+    "correctAnswer": "25",
     "answerType": "numeric"
   },
   {
