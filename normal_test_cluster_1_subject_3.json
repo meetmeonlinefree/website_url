@@ -884,5 +884,119 @@
       "7"
     ],
     "correctIndex": 2
+  },
+    {
+    "id": 81,
+    "question": "Адади орбиталҳо дар f-зерқабат ба чанд баробар аст?",
+    "options": [
+      "6",
+      "10",
+      "7",
+      "14"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 82,
+    "question": "Адади орбиталҳо дар d-зерқабат ба чанд баробар аст?",
+    "options": [
+      "5",
+      "10",
+      "3",
+      "6"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 83,
+    "question": "Конфигуратсияи электронии атоми кадом элемент дода шудааст?",
+    "options": [
+      "нитроген",
+      "фтор",
+      "оксиген",
+      "неон"
+    ],
+    "correctIndex": 2,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/83.png"
+	
+  },
+  {
+    "id": 84,
+    "question": "Конфигуратсияи электронии атоми кадом элемент дода шудааст?",
+    "options": [
+      "оксиген",
+      "неон",
+      "карбон",
+      "нитроген"
+    ],
+    "correctIndex": 3,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/84.png"
+  },
+  {
+    "id": 85,
+    "question": "Конфигуратсияи электронии атоми кадом элемент дода шудааст?",
+    "options": [
+      "нитроген",
+      "оксиген",
+      "фтор",
+      "неон"
+    ],
+    "correctIndex": 2,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/85.png"
+  },
+  {
+    "id": 86,
+    "question": "Ба кадом галоген формулаи электроние, ки бо …4s24p5 ба анҷом мерасад, мувофиқ аст?",
+    "options": [
+      "F",
+      "Cl",
+      "Br",
+      "I"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 87,
+    "question": "Конфигуратсияи қабати берунаи … 3s23p4 ба атоми кадом элемент мансуб мебошад?",
+    "options": [
+      "Ca",
+      "P",
+      "S",
+      "Mg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 88,
+    "question": "Формулаи электронии элемент бо ... 3d34s2 анҷом меёбад. Рақами тартибии элементро муайян кунед.",
+    "options": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 89,
+    "question": "Дар шароити муътадил атоми кадом элемент миқдори зиёдтарини электронҳои тоқро дорад?",
+    "options": [
+      "C",
+      "Cl",
+      "N",
+      "S"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 90,
+    "question": "Атомҳоеро, ки дар қабати берунаашон дар ҳолати асосӣ ду электрони тоқ доранд, муайян кунед.",
+    "options": [
+      "Mg ва C",
+      "Fe ва Br",
+      "Ca ва Cl",
+      "С ва О"
+    ],
+    "correctIndex": 3
   }
 ]
