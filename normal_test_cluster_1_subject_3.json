@@ -3591,5 +3591,234 @@
       "Fe(OH)3 + HCl →"
     ],
     "correctIndex": 1
+  },
+    {
+    "id": 331,
+    "question": "Дар нақшаи табдилот моддаи Х-ро муайян кунед.",
+    "options": [
+      "Na2SO4",
+      "Ba(OH)2",
+      "MgSO4",
+      "MgCl2"
+    ],
+    "correctIndex": 2,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/331.png"
+  },
+  {
+    "id": 332,
+    "question": "Дар нақшаи табдилот моддаи Х-ро муайян кунед.",
+    "options": [
+      "NaNO3",
+      "NH4Cl",
+      "NH4NO3",
+      "NaCl"
+    ],
+    "correctIndex": 1,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/332.png"
+  },
+  {
+    "id": 333,
+    "question": "Дар нақшаи табдилот моддаи Х-ро муайян кунед.",
+    "options": [
+      "Ag(NH3)2Cl",
+      "Fe(OH)3",
+      "KNO3",
+      "FeCl2"
+    ],
+    "correctIndex": 3,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/333.png"
+  },
+  {
+    "id": 334,
+    "question": "Дар ҳолати X + HCl → реаксия намегузарад, аммо 2X(NO3)2 → 2XO + 4NO2 + O2 аст. Металли Х-ро муайян кунед.",
+    "options": [
+      "Аg",
+      "Cu",
+      "Fe",
+      "Zn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 335,
+    "question": "Дар ҳолати X + HCl → реаксия намегузарад, аммо 2XNO3 → 2X + 2NO2 + O2 аст. Металли Х-ро муайян кунед.",
+    "options": [
+      "Cu",
+      "Na",
+      "Ag",
+      "Zn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 336,
+    "question": "Дар ҳолати XO + H2O → реаксия намегузарад, аммо X + FeCl2 → Fe + XCl2 аст. Металли Х-ро муайян кунед.",
+    "options": [
+      "Ca",
+      "Zn",
+      "Pb",
+      "Cu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 337,
+    "question": "Дар ҳолати X2 + KBr → реаксия намегузарад, аммо NaX + AgNO3 → AgX↓ + NaNO3 аст. Элементи Х-ро муайян кунед.",
+    "options": [
+      "F",
+      "I",
+      "Cl",
+      "O"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 338,
+    "question": "X2 + 2HBr → 2HX + Br2 ва NaX + AgNO3 → AgX↓ + NaNO3 мебошад. Элементи Х-ро муайян кунед.",
+    "options": [
+      "Cl",
+      "O",
+      "F",
+      "I"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 339,
+    "question": "Дар ҳолати NaX + AgNO3 → реаксия намегузарад, аммо X2 + 2HBr → 2HX + Br2 аст. Элементи Х-ро муайян кунед.",
+    "options": [
+      "I",
+      "O",
+      "Cl",
+      "F"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 340,
+    "question": "Дар нақшаи табдилоти моддаҳои X ва Y-ро мувофиқан муайян кунед.",
+    "options": [
+      "хлориди аммоний ва об",
+      "аммиак ва об",
+      "аммиак ва ҳидроксиди натрий",
+      "сулфати аммоний ва ҳидроксиди калий"
+    ],
+    "correctIndex": 2
+  },
+    {
+    "id": 341,
+    "question": "Дар нақшаи табдилоти моддаҳои X ва Y-ро мувофиқан муайян кунед.",
+    "options": [
+      "K2SO4 ва Ba(OH)2",
+      "K2SO4 ва BaCl2",
+      "KOH ва Ba(NO3)2",
+      "KOH ва BaSO4"
+    ],
+    "correctIndex": 2,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/341.png"
+  },
+  {
+    "id": 342,
+    "question": "Дар нақшаи табдилоти моддаҳои X ва Y-ро мувофиқан муайян кунед.",
+    "options": [
+      "NaOH ва CaCO3",
+      "NaOH ва Ca(OH)2",
+      "Na2O ва CaCO3",
+      "NaCl ва Ca(OH)2"
+    ],
+    "correctIndex": 1,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/342.png"
+  },
+  {
+    "id": 343,
+    "question": "Дар нақшаи табдилоти моддаҳои X ва Y-ро мувофиқан муайян кунед.",
+    "options": [
+      "Na2SO4 ва BaCl2",
+      "Na2SO3 ва BaO",
+      "NaCl ва Ba(NO3)2",
+      "NaOH ва Ba(OH)2"
+    ],
+    "correctIndex": 3,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/343.png"
+  },
+  {
+    "id": 344,
+    "question": "Дар нақшаи табдилоти моддаҳои X ва Y-ро мувофиқан муайян намоед.",
+    "options": [
+      "Fe(NO3)3, FeO",
+      "FeSO4, Fe2O3",
+      "FeCl3, Fe2O3",
+      "FeCl2, FeO"
+    ],
+    "correctIndex": 2,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/344.png"
+  },
+  {
+    "id": 345,
+    "question": "Дар нақшаи табдилоти моддаҳои X ва Y-ро мувофиқан муайян намоед.",
+    "options": [
+      "Cr2O3, CrO",
+      "CrSO4, CrO",
+      "CrCl2, CrO3",
+      "Cr2(SO4)3, Cr2O3"
+    ],
+    "correctIndex": 1,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/345.png"
+  },
+  {
+    "id": 346,
+    "question": "Дар нақшаи табдилоти моддаҳои X ва Y-ро мувофиқан муайян намоед.",
+    "options": [
+      "CuO, Cu",
+      "Cu2O, CuOH",
+      "CuSO3, Cu",
+      "CuSO4, Cu(OH)2"
+    ],
+    "correctIndex": 0,
+	"image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/chemestry_images/346.png"
+  },
+  {
+    "id": 347,
+    "question": "Бо 0,2 мол сулфур чанд грамм оҳан ба реаксия дохил мешавад?",
+    "options": [
+      "6,7",
+      "22,4",
+      "11,2",
+      "5,6"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 348,
+    "question": "Бо 12 г магний чанд грамм оксиген ба реаксия дохил мешавад?",
+    "options": [
+      "12",
+      "10",
+      "16",
+      "8"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 349,
+    "question": "Ҳангоми ба 0,4 мол руҳ бо кислотаи сероби хлорид таъсир намудан чанд литр ҳидроген (ш. м.) хориҷ мешавад?",
+    "options": [
+      "4,48",
+      "3,36",
+      "8,96",
+      "6,72"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 350,
+    "question": "Барои ҳосил кардани 5,6 литр оксиген (ш. м.) чанд грамм пероксиди ҳидроген лозим аст?",
+    "options": [
+      "17",
+      "20",
+      "22",
+      "18"
+    ],
+    "correctIndex": 0
   }
 ]
