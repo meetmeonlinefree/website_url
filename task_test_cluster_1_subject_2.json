@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/1.png",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 2,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/2.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 3,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/3.png",
+    "correctAnswer": "45",
+    "answerType": "numeric"
+  },
+  {
+    "id": 4,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/4.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+    {
+    "id": 5,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/5.png",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+    {
+    "id": 6,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/6.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+    {
+    "id": 7,
+    "question": "Қимати ифодаро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/7.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+    {
+    "id": 8,
+    "question": "Қимати ифодаро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/8.png",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+    {
+    "id": 9,
+    "question": "Қимати ифодаро ёбед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/9.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+    {
+    "id": 10,
+    "question": "Ҳисоб кунед:",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/images/10.png",
+    "correctAnswer": "7",
+    "answerType": "numeric"
+  }
+]
