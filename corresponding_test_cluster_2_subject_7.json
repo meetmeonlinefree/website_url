@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": 1,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/1.png",
+    "left": ["А) 25 а. ш. ва 50 т. ш.", "В) 15 а. ҷ. ва 90 т. ш.", "С) 15 а. ҷ. ва 10 т. ғ.", "D) 15 а. ш. ва 10 т. ш."],
+    "right": ["1) V", "2) IV", "3) III", "4) I", "5) II"],
+    "correctMatches": { "А": 5, "В": 1, "С": 2, "D": 4 }
+  },
+  {
+    "id": 2,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/2.png",
+    "left": ["А) 15 а. ҷ. ва 100 т. ғ.", "В) 55 а. ш. ва 50 т. ғ.", "С) 15 а. ш. ва 100 т. ғ.", "D) 55 а. ҷ. ва 60 т. ғ."],
+    "right": ["1) II", "2) V", "3) IV", "4) I", "5) III"],
+    "correctMatches": { "А": 3, "В": 1, "С": 5, "D": 2 }
+  },
+  {
+    "id": 3,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/3.png",
+    "left": ["А) 40 а. ҷ. ва 80 т. ғ.", "В) 40 а. ш. ва 80 т. ғ.", "С) 20 а. ш. ва 170 т. ш.", "D) 20 а. ҷ. ва 170 т. ғ."],
+    "right": ["1) II", "2) IV", "3) V", "4) III", "5) I"],
+    "correctMatches": { "А": 3, "В": 4, "С": 1, "D": 2 }
+  },
+  {
+    "id": 4,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/4.png",
+    "left": ["А) 25 а. ш. ва 40 т. ш.", "В) 30 а. ҷ. ва 30 т. ш.", "С) 35 а. ш. ва 80 т. ш.", "D) 35 а. ҷ. ва 70 т. ш."],
+    "right": ["1) V", "2) I", "3) II", "4) IV", "5) III"],
+    "correctMatches": { "А": 2, "В": 4, "С": 3, "D": 1 }
+  },
+  {
+    "id": 5,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/5.png",
+    "left": ["А) 65 а. ш. ва 170 т. ғ.", "В) 55 а. ҷ. ва 170 т. ш.", "С) 40 а. ҷ. ва 65 т. ғ.", "D) 65 а. ш. ва 170 т. ш."],
+    "right": ["1) I", "2) V", "3) III", "4) II", "5) IV"],
+    "correctMatches": { "А": 4, "В": 2, "С": 5, "D": 1 }
+  },
+  {
+    "id": 6,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/6.png",
+    "left": ["А) 70 а. ш. ва 40 т. ш.", "В) 40 а. ш. ва 70 т. ш.", "С) 40 а. ҷ. ва 70 т. ш.", "D) 70 а. ҷ. ва 40 т. ш."],
+    "right": ["1) IV", "2) I", "3) III", "4) V", "5) II"],
+    "correctMatches": { "А": 2, "В": 5, "С": 1, "D": 4 }
+  },
+  {
+    "id": 7,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/7.png",
+    "left": ["А) 20 а. ҷ. ва 50 т. ш.", "В) 50 а. ҷ. ва 20 т. ш.", "С) 20 а. ш. ва 50 т. ш.", "D) 50 а. ш. ва 10 т. ғ."],
+    "right": ["1) V", "2) III", "3) IV", "4) I", "5) II"],
+    "correctMatches": { "А": 4, "В": 5, "С": 1, "D": 3 }
+  },
+  {
+    "id": 8,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/8.png",
+    "left": ["А) 50 а. ҷ. ва 170 т. ш.", "В) 50 а. ш. ва 170 т. ш.", "С) 50 а. ш. ва 170 т. ғ.", "D) 50 а. ҷ. ва 170 т. ғ."],
+    "right": ["1) I", "2) V", "3) IV", "4) II", "5) III"],
+    "correctMatches": { "А": 4, "В": 2, "С": 3, "D": 1 }
+  },
+  {
+    "id": 9,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/9.png",
+    "left": ["А) 30 а. ҷ. ва 170 т. ш.", "В) 30 а. ш. ва 170 т. ғ.", "С) 30 а. ш. ва 170 т. ш.", "D) 30 а. ҷ. ва 170 т. ғ."],
+    "right": ["1) II", "2) V", "3) IV", "4) I", "5) III"],
+    "correctMatches": { "А": 4, "В": 5, "С": 2, "D": 1 }
+  },
+  {
+    "id": 10,
+    "question": "Мувофиқати координатаҳои географӣ ва рақамеро, ки онҳо дар харита бо он ишора шудаанд, муайян намоед:",
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/geography_images/10.png",
+    "left": ["А) 60 а. ҷ. ва 30 т. ш.", "В) 60 а. ш. ва 30 т. ш.", "С) 30 а. ш. ва 60 т. ш.", "D) 30 а. ҷ. ва 60 т. ш."],
+    "right": ["1) IV", "2) I", "3) II", "4) III", "5) V"],
+    "correctMatches": { "А": 5, "В": 1, "С": 3, "D": 4 }
+  }
+]
