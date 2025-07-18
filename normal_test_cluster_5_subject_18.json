@@ -40,21 +40,21 @@
     "question": "Дар расм кадом фазаи митоз тасвир ёфтааст?",
     "options": ["профаза", "анафаза", "метафаза", "телофаза"],
     "correctIndex": 0,
-    "image": "images/mitosis_phase1.png"
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/7.png"
   },
   {
     "id": 8,
     "question": "Дар расм кадом фазаи митоз тасвир ёфтааст?",
     "options": ["метафаза", "анафаза", "телофаза", "профаза"],
     "correctIndex": 2,
-    "image": "images/mitosis_phase2.png"
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/8.png"
   },
   {
     "id": 9,
     "question": "Дар расм кадом фазаи митоз нишон дода шудааст?",
     "options": ["метафаза", "профаза", "телофаза", "анафаза"],
     "correctIndex": 0,
-    "image": "images/mitosis_phase3.png"
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/biology_images/9.png"
   },
   {
     "id": 10,
