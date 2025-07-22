@@ -14,12 +14,14 @@
   {
     "id": 3,
     "question": "Тайёра масофаи S = 3 600 км-ро дар чанд соат тай мекунад (ба расм нигаред)?",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t3.png",
     "correctAnswer": "5",
     "answerType": "numeric"
   },
   {
     "id": 4,
     "question": "Дучархарон (ба расм нигаред) дар чанд дақиқа масофаи S = 6 км-ро тай мекунад?",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t4.png",
     "correctAnswer": "25",
     "answerType": "numeric"
   },
@@ -74,6 +76,7 @@
   {
     "id": 13,
     "question": "Писарбачаҳо бо қувваҳои F1 ва F2 (ба расм нигаред) борро кашида истодаанд. Таҳти таъсири қувваҳои писарбачаҳо бор соҳиби чӣ қадар шитоб хоҳад шуд? Соиш ва тарангии бандро ба эътибор нагиред. Ҷавобро бо м/с2 нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t13.png",
     "correctAnswer": "10",
     "answerType": "numeric"
   },
@@ -86,7 +89,8 @@
   {
     "id": 15,
     "question": "Талаба бо банд (ба расм нигаред) борро бо қувваи F1 = 100 Н ба тарафи худ мекашаду муаллим онро бо қувваи F2 = 300 Н тела медиҳад. Таҳти таъсири ин қувваҳо бор соҳиби чӣ қадар шитоб мегардад? Соиш ва тарангии бандро ба эътибор нагиред. Ҷавобро бо м/с2 нависед.",
-    "correctAnswer": "10",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t15.png",
+	"correctAnswer": "10",
     "answerType": "numeric"
   },
   {
@@ -98,6 +102,7 @@
   {
     "id": 17,
     "question": "Вазни мошинро (ба расм нигаред) ёбед. Шитоби афтиши озодро g = 10 м/с2 қабул кунед. Ҷавобро бо нютон нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t17.png",
     "correctAnswer": "20",
     "answerType": "numeric"
   },
@@ -110,12 +115,14 @@
   {
     "id": 19,
     "question": "Қувваи вазнинии одамро (ба расм нигаред) ёбед. Шитоби афтиши озодро g = 10 м/с2 қабул кунед. Ҷавобро бо нютон нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t19.png",
     "correctAnswer": "600",
     "answerType": "numeric"
   },
   {
     "id": 20,
     "question": "Вазни духтарча 300 Н мебошад. Қувваи тарангии банд (ба расм нигаред) дар ин маврид чӣ қадар аст? Ҷавобро бо нютон нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t20.png",
     "correctAnswer": "300",
     "answerType": "numeric"
   },
@@ -146,18 +153,21 @@
   {
     "id": 25,
     "question": "Ба фашанг дар нуқтаи A (ба расм нигаред) чӣ қадар қувваро бояд гузошт, то ки фашанг дар мувозинат монад? Массаи фашангро ба эътибор нагиред. Як тақсимоти қувва баробари 1 Н аст. Ҷавобро бо нютон нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t25.png",
     "correctAnswer": "1",
     "answerType": "numeric"
   },
   {
     "id": 26,
     "question": "Ба фашанг дар нуқтаи В (ба расм нигаред) чӣ қадар қувва бояд гузошт, то ки фашанг дар мувозинат бошад? Массаи фашангро ба эътибор нагиред. Як тақсимоти қувва баробари 1 Н аст. Ҷавобро бо нютон нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t26.png",
     "correctAnswer": "4",
     "answerType": "numeric"
   },
   {
     "id": 27,
     "question": "Ба фашанг дар нуқтаи A борҳои якхеларо овезон карданд. Дар нуқтаи В (ба расм нигаред) чандто чунин борро бояд овезон кард, то ки фашанг дар мувозинат монад? Массаи фашангро ба эътибор нагиред. Ҷавобро бо рақам нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t27.png",
     "correctAnswer": "4",
     "answerType": "numeric"
   },
@@ -248,6 +258,7 @@
   {
     "id": 42,
     "question": "Дар расм графики вобастагии амплитудаи лаппиши садо аз роҳи тайкарда тасвир ёфтааст. Дарозии мавҷи садо чанд метр қадар аст?",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t42.png",
     "correctAnswer": "4",
     "answerType": "numeric"
   },
@@ -302,7 +313,8 @@
   {
     "id": 51,
     "question": "Дар расм ду пружини якхела тасвир ёфтаанд. Ба нӯги поёнии пружини якум бори нуқрагиро маҳкам карданд. Ба нӯги поёнии пружини дуюм чанд дона ҳамин гуна бори алюминиро бояд маҳкам кунанд, то ки ёзиши пружинҳо баробар шавад? Массаи атомии алюминий 27 кг/мол ва нуқраро 108 кг/мол қабул кунед. Ҷавобро дар шакли адад нависед.",
-    "correctAnswer": "4",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t51.png",
+	"correctAnswer": "4",
     "answerType": "numeric"
   },
   {
@@ -314,37 +326,42 @@
   {
     "id": 53,
     "question": "Дар нӯги поёнии пружини якум зарфи маҳками бо ҳелий пуркардашударо маҳкам карданд. Дар нӯги поёнии пружини дуюм чандто ин гуна зарфи бо ҳидроген пуркардашударо маҳкам кардан даркор аст, то ки миқдори моддаи газҳо баробар шуда, ёзиши пружинҳо якхела шавад? Зичии ҳелий 0,18 кг/м3 ва зичии ҳидрогенро 0,09 кг/м3 қабул кунед. Пружинҳо якхела мебошанд. Ҷавобро дар шакли адад нависед.",
-    "correctAnswer": "2",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t53.png",
+	"correctAnswer": "2",
     "answerType": "numeric"
   },
   {
     "id": 54,
     "question": "Вақте ки ба нӯги поёнии пружин зарфи маҳками бо 1 мол ҳидроген пуркардашударо бастанд, пружин ба 1 см дароз шуд. Агар дар нӯги поёнии ин пружин ҳамин гуна зарфи бо 1 мол оксиген пуркарда- шударо банданд, пружин чӣ қадар дароз хоҳад шуд? Массаи зарфи холиро ба назар нагиред. Ҷавобро бо сантиметр нависед.",
-    "correctAnswer": "16",
+	"correctAnswer": "16",
     "answerType": "numeric"
   },
   {
     "id": 55,
     "question": "Зарфҳои якхела бо газҳои гуногуни миқдорашон баробар пур карда шудаанд. Вазни зарфи газдори якум нисбат ба вазни зарфи газдори дуюм чанд маротиба зиёдтар аст? Ҷавобро дар шакли адад нависед.",
-    "correctAnswer": "2",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t55.png",
+	"correctAnswer": "2",
     "answerType": "numeric"
   },
   {
     "id": 56,
     "question": "Ба як паллаи тарозу зарфи даҳонаш маҳками бо газ пуркардашударо гузоштанд (ба расм нигаред). Дар паллаи дигари тарозу чандто чунин зарфи даҳонаш маҳками бо ҳидроген пуркардашударо (дар шароити муътадил) бояд гузорем, то ки миқдори газҳо баробар шуда, мувозинати тарозу барқарор шавад? Ҷавобро дар шакли адад нависед.",
-    "correctAnswer": "2",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t56.png",
+	"correctAnswer": "2",
     "answerType": "numeric"
   },
   {
     "id": 57,
     "question": "Дар расм ду пружини якхела нишон дода шудаанд. Ба нӯги поёнии пружини якум зарфи даҳонаш маҳками бо газ пуркардашударо маҳкам карданд. Чандто ин гуна зарфи даҳонаш маҳками бо метан пуркардашударо (шароити муътадил) ба нӯги поёнии пружини дуюм бояд маҳкам кунем, то ки миқдори моддаи газҳо баробар шуда, дарозшавии пружинҳо якхела шавад? Ҷавобро дар шакли адад нависед.",
-    "correctAnswer": "2",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t57.png",
+	"correctAnswer": "2",
     "answerType": "numeric"
   },
   {
     "id": 58,
     "question": "Зарфҳои якхела (ба расм нигаред) бо газҳои гуногуни миқдорашон баробар пур карда шудаанд. Вазни зарфи газдори дуюм аз вазни зарфи газдори якум чанд маротиба зиёдтар аст? Ҷавобро дар шакли адад нависед.",
-    "correctAnswer": "14",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t58.png",
+	"correctAnswer": "14",
     "answerType": "numeric"
   },
   {
@@ -356,7 +373,889 @@
   {
     "id": 60,
     "question": "Ба як паллаи тарозу (ба расм нигаред) зарфи даҳонаш маҳками бо газ пуркардашударо гузоштанд. Ба паллаи дигари тарозу чандто чунин зарфи даҳонаш маҳками бо метан пуркардашударо (шароити муътадил) бояд гузорем, то ки миқдори газҳо баробар шуда, мувозинати тарозу барқарор шавад? Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t60.png",
+	"correctAnswer": "2",
+    "answerType": "numeric"
+  },
+    {
+    "id": 61,
+    "question": "Як зарфи даҳонаш маҳкам бо ҳидроген ва ҳамин гуна зарфи даҳонаш маҳками дигар бо метан дар шароити муътадил пур карда шудааст. Миқдори газҳо баробар аст. Вазни зарфи метандор аз вазни зарфи ҳидрогендор чанд маротиба зиёдтар аст?",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 62,
+    "question": "Графики тағйирёбии ҳолати гази идеалӣ дар координатаҳои Р, T (ба расм нигаред) дода шудааст. Дар график кадом раванд (1, 2, 3, 4) бо гузариши 1-3 нишон дода шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t62.png",
+	"correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 63,
+    "question": "Графики тағйирёбии ҳолати гази идеалӣ дар координатаҳои V, T (ба расм нигаред) дода шудааст. Дар график кадом раванд (1, 2, 3, 4) бо гузариши 2-3 нишон дода шудааст?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t63.png",
+	"correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 64,
+    "question": "Дар зарфи маҳкам дар зери поршен гази ҳаҷмаш V1 = 5 л таҳти фишори P1 = 100 кПа ҷойгир аст. Агар дар раванди изотермӣ фишори газро то Р2 = 500 кПа баланд кунем, ҳаҷми газ чанд литр хоҳад шуд?",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 65,
+    "question": "Дар зарфи маҳкам гази ҳаҷмаш V1 = 6 л ва ҳарораташ Т1 = 900 К мавҷуд аст. Агар дар раванди изобарӣ ҳарорати газро то Т2 = 150 К паст кунанд, ҳаҷми газ чанд литр хоҳад шуд?",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 66,
+    "question": "Дар зарфи маҳкам зери поршин гази ҳарораташ Т1 = 400 К таҳти фишори Р1 = 80 кПа мавҷуд аст. Агар дар раванди изохорӣ ҳарорати газро то Т2 = 600 К зиёд кунем, фишори газ чӣ қадар хоҳад шуд?",
+    "correctAnswer": "120",
+    "answerType": "numeric"
+  },
+  {
+    "id": 67,
+    "question": "Дар баллон ҳавои ҳаҷмаш V1 = 20 л таҳти фишори P1 = 100 кПа мавҷуд аст. Таҳти чӣ қадар фишор ҳаҷми ҳаво дар баллон ба V2 = 10 л баробар хоҳад шуд (Т = const)?",
+    "correctAnswer": "200",
+    "answerType": "numeric"
+  },
+  {
+    "id": 68,
+    "question": "Дар ҳарорати Т1 = 200 К фишори газ дар зарфи маҳкам Р1 = 100 кПа аст. Дар кадом ҳарорат фишори газ то Р2 = 400 кПа баланд мешавад?",
+    "correctAnswer": "800",
+    "answerType": "numeric"
+  },
+  {
+    "id": 69,
+    "question": "Систернаҳои чор мошини якхела бо миқдори баробари газҳо пур карда шудаанд: систернаи мошини якум бо метан, дуюм бо этан, сеюм бо пропан ва чорум бо бутан. Агар мошинҳо бо суръати якхела ҳаракат кунанд, импулси кадом мошин аз ҳама зиёдтар аст?",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 70,
+    "question": "Ҳарорати ҷӯшиши шир аз рӯйи миқёси Селсий t = 100°С аст. Ҳарорати ҷӯшиши шир аз рӯйи миқёси Келвин чӣ қадар аст?",
+    "correctAnswer": "373",
+    "answerType": "numeric"
+  },
+  {
+    "id": 71,
+    "question": "Ҳарорати ҷӯшиши нуқра аз рӯйи миқёси Келвин Т = 1235 К мебошад. Ҳарорати ҷӯшиши нуқра аз рӯйи миқёси Селсий чӣ қадар аст?",
+    "correctAnswer": "962",
+    "answerType": "numeric"
+  },
+  {
+    "id": 72,
+    "question": "Ба системаи термодинамикӣ миқдори гармии Q = 600 Ҷ дода шуд. Агар система ба муқобили қувваҳои беруна кори A = 200 Ҷ-ро иҷро кунад, тағйирёбии энергияи дохилии система чӣ қадар хоҳад шуд?",
+    "correctAnswer": "400",
+    "answerType": "numeric"
+  },
+  {
+    "id": 73,
+    "question": "Ба системаи тармодинамикӣ миқдори гармии Q = 800 Ҷ дода шуд. Агар тағйирёбии энергияи дохилии система ΔU = 600 Ҷ бошад, система ба муқобили қувваҳои беруна чӣ қадар корро иҷро кард?",
+    "correctAnswer": "200",
+    "answerType": "numeric"
+  },
+  {
+    "id": 74,
+    "question": "Ҳангоми ба системаи термодинамикӣ додани миқдори муайяни гармӣ энергияи дохилии система ба ΔU = 200 Ҷ тағйир ёфта, система ба муқобили қувваҳои беруна кори А = 50 Ҷ-ро иҷро кард. Миқдори гармии ба система додашударо муайян кунед.",
+    "correctAnswer": "250",
+    "answerType": "numeric"
+  },
+  {
+    "id": 75,
+    "question": "Ҳангоми пурра сӯхтани ангиштсанги массааш m = 10 кг чӣ қадар миқдори гармӣ ҷудо мешавад? Гармии хоси сӯзиши ангиштсангро q = 30∙10⁶ Ҷ/кг қабул кунед.",
+    "correctAnswer": "300",
+    "answerType": "numeric"
+  },
+  {
+    "id": 76,
+    "question": "Графики вобастагии тағйирёбии ҳарорати системаи об-ях ба вақт нишон дода шудааст. Раванди ҷӯшидани об чанд дақиқа давом кард?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t76.png",
+	"correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 77,
+    "question": "Графики вобастагии тағйирёбии ҳарорати системаи об-ях ба вақт нишон дода шудааст. Муайян кунед, ки раванди хунукшавии об чанд дақиқа давом кард?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t77.png",
+	"correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 78,
+    "question": "Графики вобастагии тағйирёбии ҳарорати системаи об-ях ба вақт нишон дода шудааст. Муайян кунед, ки раванди гармшавии ях чанд дақиқа давом кард?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t78.png",
+	"correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 79,
+    "question": "Графики вобастагии ҳарорати конденсатсияи баъзе моддаҳо аз вақт дода шудааст. Чанд дақиқа раванди конденсатсияи нитроген давом кард (ба ҷадвал нигаред)?",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t79.png",
+	"correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 80,
+    "question": "Ҳангоми пурра сӯхтани ангиштсанг миқдори гармии Q = 90∙10⁶ Ҷ ҷудо шуд. Массаи ангиштсанг чӣ қадар аст? Гармии хоси сӯзиши ангиштсангро q = 30∙10⁶ Ҷ/кг қабул кунед.",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+    {
+    "id": 81,
+    "question": "Ҳангоми пурра бухор шудани спирт дар ҳарорати ҷӯшиш миқдори гармии Q = 90∙10⁵ Ҷ ҷудо шуд. Массаи спирт чӣ қадар буд? Гармии хоси буғҳосилкунии спиртро r = 9∙10⁵ Ҷ/кг қабул кунед. Ҷавобро бо килограмм нависед.",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 82,
+    "question": "Барои гудохтани m = 100 кг ях дар ҳарорати гудозиш чӣ қадар миқдори гармӣ зарур аст? Гармии хоси гудозиши яхро λ = 33∙10⁴ Ҷ/кг қабул кунед. Ҷавобро бо мегаҷоул нависед.",
+    "correctAnswer": "33",
+    "answerType": "numeric"
+  },
+  {
+    "id": 83,
+    "question": "Барои гудохтани мис дар ҳарорати гудозиш Q = 8∙10⁵ Ҷ миқдори гармӣ сарф шуд. Массаи мис чӣ қадар буд? Гармии хоси гудозиши мисро λ = 2∙10⁵ Ҷ/кг қабул кунед. Ҷавобро бо килограмм нависед.",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 84,
+    "question": "Барои дар ҳарорати ҷӯшиш ба буғ мубаддал кардани m = 10 кг об чӣ қадар миқдори гармӣ зарур аст? Гармии хоси буғҳосилкунии обро r = 2,2∙10⁶ Ҷ/кг қабул кунед. Ҷавобро бо мегаҷоул нависед.",
+    "correctAnswer": "22",
+    "answerType": "numeric"
+  },
+  {
+    "id": 85,
+    "question": "Графики вобастагии ҳарорати ҷӯшиши баъзе моддаҳо аз вақт дода шудааст. Раванди ҷӯшиши эфир чанд дақиқа давом кард (ба ҷадвал нигаред)?",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t85.png",
     "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 86,
+    "question": "Заряди лавҳаҳои конденсатор дар контури лаппиш бо мурури вақт мувофиқи муодилаи q = 0,01sin(1000t+π/12) (Кл) тағйир меёбад. Басомади доиравии (сиклӣ) контурро ёбед. Ҷавобро дар СИ ифода намоед.",
+    "correctAnswer": "1000",
+    "answerType": "numeric"
+  },
+  {
+    "id": 87,
+    "question": "Бо истифода аз маълумоти ҷадвал муайян кунед, ки ба заряде, ки дар майдони электростатикии аз тарафи радиомавҷҳо офаридашуда ҷойгир шудааст, чӣ қадар қувва таъсир мекунад. Ҷавобро бо микронютон нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t87.png",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 88,
+    "question": "Конденсатори ғунҷоишаш С = 10 мкФ, ки ба манбаи шиддаташ U = 4 В пайваст аст, чӣ қадар зарядро ғун мекунад? Ҷавобро бо микрокулон нависед.",
+    "correctAnswer": "40",
+    "answerType": "numeric"
+  },
+  {
+    "id": 89,
+    "question": "Бо кадом шиддат конденсатори ғунҷоиши электриаш С = 20 мкФ заряди q = 720 мкКл-ро мегирад? Ҷавобро бо волт нависед.",
+    "correctAnswer": "36",
+    "answerType": "numeric"
+  },
+  {
+    "id": 90,
+    "question": "Дар расм схемаи батареяи конденсаторҳои ғунҷоиши электрии ҳар кадомашон 10 мкФ тасвир ёфтааст. Ғунҷоиши электрии умумии батареяро ёбед. Ҷавобро бо микрофарад нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t90.png",
+    "correctAnswer": "30",
+    "answerType": "numeric"
+  },
+  {
+    "id": 91,
+    "question": "Дар расм схемаи пайвасти конденсаторҳои ғунҷоиши электрии ҳар кадомашон 40 мкФ нишон дода шудааст. Ғунҷоиши электрии умумии конденсаторҳоро ёбед. Ҷавобро бо микрофарад нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t91.png",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+  {
+    "id": 92,
+    "question": "Дар расм схемаи батареяи ғунҷоиши электрии умумияш 30 пФ, ки аз конденсаторҳои якхела иборат аст, тасвир ёфтааст. Ғунҷоиши ҳар як конденсатор чӣ қадар аст? Ҷавобро бо пикофарад нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t92.png",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 93,
+    "question": "Барои сохтани батарея мактаббача чор конденсатори ғунҷоиши электрии ҳар кадомаш 2 мкФ-ро истифода намуд. Агар ӯ конденсаторҳоро параллел пайваст кунад, ғунҷоиши электрии умумии батарея чӣ қадар хоҳад шуд? Ҷавобро бо микрофарад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t94.png",
+	"correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 94,
+    "question": "Дар расм схемаи батарейи конденсаторҳои ғунҷоиши электрии умумияшон Су = 12 мкФ тасвир ёфтааст. Ғунҷоиши электрии конденсаторҳо С1 = 4 мкФ ва С2 = 2 мкФ мебошад. Ғунҷоиши электрии конденсатори С3 чӣ қадар аст? Ҷавобро бо микрофарад нависед.",
+    "correctAnswer": "6",
+    "answerType": "numeric"
+  },
+  {
+    "id": 95,
+    "question": "Агар қувваи ҷараён дар спирали лампаи электрӣ 1 А бошад, дар чанд сония аз бурриши арзии спирал заряди 28 Кл мегузарад?",
+    "correctAnswer": "28",
+    "answerType": "numeric"
+  },
+  {
+    "id": 96,
+    "question": "Агар қувваи ҷараён дар спирали манқали (плитка) электрӣ ба 1 А баробар бошад, аз бурриши арзии спирали манқал дар 10 с чӣ қадар заряди электрӣ мегузарад? Ҷавобро бо кулон нависед.",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 97,
+    "question": "Дарзмоли муқовимати элементи гармкунандааш 110 Ом бо шидати 220 В кор мекунад. Қувваи ҷараён дар элементи гармкунандаи он чӣ қадар аст? Ҷавобро бо ампер нависед.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 98,
+    "question": "Ноқилро ба шабакаи шиддаташ 360 В пайваст карданд. Дар ин маврид аз ноқил ҷараёни 4 А ҷорӣ шуд. Муқовимати ноқил чӣ қадар аст? Ҷавобро бо ом нависед.",
+    "correctAnswer": "90",
+    "answerType": "numeric"
+  },
+  {
+    "id": 99,
+    "question": "Агар занҷир ба манбаи шиддаташ 120 В пайваст бошад, амперметри дар расм тасвирёфта чӣ қадар қувваи ҷараёнро нишон медиҳад? Ҷавобро бо ампер нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t99.png",
+	"correctAnswer": "12",
+    "answerType": "numeric"
+  },
+  {
+    "id": 100,
+    "question": "Дар расм занҷири электрӣ тасвир ёфтааст. Ҳангоми пайваст кардани калиди К волтметр шиддати 12 В ва амперметр қувваи ҷараёни 1 А-ро нишон медиҳад. Муқовимати резистори R чӣ қадар аст? Муқовимати симҳои васлкунандаро ба назар нагиред. Ҷавобро бо ом нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t100.png",
+	"correctAnswer": "12",
+    "answerType": "numeric"
+  },
+    {
+    "id": 101,
+    "question": "Дар занҷири электрӣ резистор, амперметр ва волтметр пайваст шудаанд. Ҳангоми пайваст кардани калид волтметр шиддати 3 В-ро нишон медиҳад. Агар муқовимати резистор 1 Ом бошад, ампер-метр чӣ қадар қувваи ҷараёнро нишон медиҳад? Ҷавобро бо ампер нависед.",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 102,
+    "question": "Лампаи муқовиматаш 100 Ом ба қувваи ҷараёни 2,2 А мувофиқ мебошад. Шиддати кории лампа чӣ қадар аст? Ҷавобро бо волт нависед.",
+    "correctAnswer": "220",
+    "answerType": "numeric"
+  },
+  {
+    "id": 103,
+    "question": "Шиддати кории дарзмол 220 В аст. Агар қувваи ҷараён дар элементи гармкунандаи дарзмол 2 А бошад, муқовимати элемент чӣ қадар аст? Ҷавобро бо ом нависед.",
+    "correctAnswer": "110",
+    "answerType": "numeric"
+  },
+  {
+    "id": 104,
+    "question": "Дар расм занҷири электрӣ нишон дода шудааст. Ҳангоми пайваст кардани калиди К амперметр ҷараёни I = 0,3 А-ро нишон медиҳад. Агар муқо- вимати резистор R = 10 Ом бошад, волтметр чӣ қадар шиддатро нишон медиҳад? Ҷавобро бо волт нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t104.png",
+	"correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 105,
+    "question": "Дар расм занҷири электрӣ тасвир ёфтааст. Нишондоди асбобҳоро истифода бурда, муқовимати резисторро муайян кунед. Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t105.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 106,
+    "question": "Ҳангоми ба манбаи шиддаташ доимӣ (ба расм нигаред) пайваст кардан аз спирали манқали электрӣ (плитка) ҷараёни электрии қуввааш I = 0,5 А мегузарад. Муқо- вимати электрии спирал чӣ қадар аст? Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t106.png",
+    "correctAnswer": "440",
+    "answerType": "numeric"
+  },
+  {
+    "id": 107,
+    "question": "Агар муқовимати ҳар яке аз лампаҳо ба 15 Ом баробар бошад, муқовимати умумии занҷири дар расм тасвирёфта чӣ қадар аст? Муқовимати симҳои васлкунандаро ба назар нагиред. Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t107.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 108,
+    "question": "Муқовимати умумии занҷир Rум = 450 Ом мебошад. Муқовимати резистори R1 = 50 Ом ва резистори R2 = 200 Ом аст. Муқовимати резистори R3 чӣ қадар аст? Муқовимати симҳои васлкунандаро ба эътибор нагиред. Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t108.png",
+    "correctAnswer": "200",
+    "answerType": "numeric"
+  },
+  {
+    "id": 109,
+    "question": "Талаба ба ду резистори дар зан- ҷир пайвастбуда ҳар се ризис- торро (ба расм нигаред) пай дар пай пайваст намуд. Муқови- мати электрии умумии резис- торҳо чӣ қадар мешавад? Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t109.png",
+    "correctAnswer": "70",
+    "answerType": "numeric"
+  },
+  {
+    "id": 110,
+    "question": "Дар занҷир (ба расм нигаред) муқовимати электрии лампа- ҳои Л1, Л2 ва Л3 мувофиқан баробар ба R1 = R2 = R3 = 30 Ом, муқовимати электрии лампа- ҳои Л4, Л5 ва Л6 баробар ба R4 = R5 = R6 = 50 Ом, муқови- мати электрии лампаҳои Л7 ва Л8 баробар ба R7 = R8 = 20 Ом аст. Талаба бояд кадом қитъаро аз занҷир ҷудо кунад, то ки муқовимати электрии умумии лампаҳо дар занҷир Rум = 230 Ом шавад? Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t110.png",
+	"correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 111,
+    "question": "Дар занҷир лампаҳо пайваст шудаанд (ба расм нигаред). Муқовимати ҳар як лампа 3 Ом аст. Муқовимати умумии лампаҳоро ёбед. Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t111.png",
+    "correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 112,
+    "question": "Барои сохтани занҷири электрӣ мактаббача чор резистори муқови- мати ҳар кадомаш 20 Ом-ро истифода намуд. Агар ӯ резисторҳоро пай дар пай пайваст кунад, муқовимати умумии занҷир чӣ қадар хоҳад шуд? Муқовимати симҳои пайвасткунандаро ба назар нагиред. Ҷавобро бо ом нависед.",
+    "correctAnswer": "80",
+    "answerType": "numeric"
+  },
+  {
+    "id": 113,
+    "question": "Дар расм схемаҳои пайвасти лампаҳои муқо- вимати ҳар кадомашон 200 Ом тасвир ёфтааст. Муқовимати умумии лампаҳо дар пайвасти дуюм аз муқовимати умумии онҳо дар пайвасти якум чанд маротиба зиёдтар аст? Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t113.png",
+	"correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 114,
+    "question": "Дар занҷир лампаҳои Л1, Л2 ва Л3 пайваст шудаанд (ба расм нигаред). Муқовимати ҳар як лампа 50 Ом мебошад. Муқовимати умумии лампаҳоро ёбед. Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t114.png",
+    "correctAnswer": "150",
+    "answerType": "numeric"
+  },
+  {
+    "id": 115,
+    "question": "Дар расм ду тарзи пайвасти резисторҳои муқовимати ҳар якеашон 60 Ом нишон дода шудааст. Муқовимати умумии резис- торҳо дар пайвасти якум аз муқовимати умумии онҳо дар пайвасти дуюм чанд маротиба зиёдтар аст? Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t115.png",
+	"correctAnswer": "9",
+    "answerType": "numeric"
+  },
+  {
+    "id": 116,
+    "question": "Агар калиди К-ро пайваст кунем (ба расм нигаред), муқовимати умумии занҷир чӣ қадар мешавад? Муқовимати симҳои васлкунан- даро ба эътибор нагиред. Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t116.png",
+    "correctAnswer": "50",
+    "answerType": "numeric"
+  },
+  {
+    "id": 117,
+    "question": "Дар занҷири электрӣ лампаҳои Л1, Л2 ва Л3 пайваст шудаанд, ки муқовимати электрии ҳар кадомашон 80 Ом аст. Агар сими пайвасткунандаро ба лампаи Л2 васл кунем (ба расм нигаред), муқовимати умумии лампаҳо чӣ қадар мешавад? Ҷавобро бо ом нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t117.png",
+	"correctAnswer": "160",
+    "answerType": "numeric"
+  },
+  {
+    "id": 118,
+    "question": "Дар занҷири электрӣ (ба расм нигаред) лампаҳои муқовимати умумиашон Rум = 200 Ом пайваст шудаанд. Муқо- вимати лампаи чорум чӣ қадар аст? Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t118.png",
+    "correctAnswer": "110",
+    "answerType": "numeric"
+  },
+  {
+    "id": 119,
+    "question": "Муқовимати умумии лампаҳои дар занҷири электрӣ пайвастбударо муайян кунед (ба расм нигаред). Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t119.png",
+    "correctAnswer": "150",
+    "answerType": "numeric"
+  },
+  {
+    "id": 120,
+    "question": "Дар занҷири электрӣ (ба расм нигаред) се резистори муқовимати ҳар кадомаш 30 Ом пайваст шудаанд. Агар калидро ба нуқтаи 2 пайваст кунем, муқовимати умумии резисторҳо чӣ қадар мешавад? Ҷавобро бо ом нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t120.png",
+    "correctAnswer": "90",
+    "answerType": "numeric"
+  },
+    {
+    "id": 121,
+    "question": "Агар аз занҷир (ба расм нигаред) лампаи Л1-ро ҷудо кунем, муқовимати умумии занҷир чӣ қадар мешавад? Муқовимати ҳар як лампа 20 Ом мебошад. Муқовимати симҳои васлкунандаро ба эътибор нагиред. Ҷавобро бо ом нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t121.png",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 122,
+    "question": "Агар ба лампаҳои Л1, Л2 ва Л3 (ба расм нигаред) лампаи Л4-ро параллел пайваст кунем, муқовимати умумии занҷир чӣ қадар мешавад? Муқовимати электрии ҳар як лампа 20 Ом мебошад. Муқовимати симҳои васлкунандаро ба эътибор нагиред. Ҷавобро бо ом нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t122.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 123,
+    "question": "Занҷири электрӣ аз се қитъа иборат аст (ба расм нигаред), ки дар ҳар яке аз онҳо ду резистор пайваст шудаанд. Муқовимати электрии умумии резис- торҳо дар занҷир Rум = 210 Ом мебо- шад. Муқовимати электрии умумии қитъаи 1 чӣ қадар аст? Ҷавобро бо ом нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t123.png",
+    "correctAnswer": "15",
+    "answerType": "numeric"
+  },
+  {
+    "id": 124,
+    "question": "Занҷири электрӣ аз се қитъа иборат аст (ба расм нигаред). Муқовимати электрии умумии қитъаи 2 аз муқо- вимати электрии умумии қитъаи 1 чанд маротиба зиёдтар аст? Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t124.png",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 125,
+    "question": "Занҷири электрӣ аз се қитъа иборат аст (ба расм нигаред). Ба резисторҳо дар қитъаи 1 чанд резистори муқовимати электрии ҳар кадомаш 8 Ом-ро пай дар пай бояд пайваст кунем, то ки муқови- мати электрии умумии қитъаҳои 1 ва 2 баробар шавад. Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t125.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 126,
+    "question": "Агар талаба калидро ба нуқтаи 1 пайваст кунад (ба расм нигаред), муқовимати электрии умумии резисторҳо дар занҷир чӣ қадар мешавад? Ҷавобро бо ом нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t126.png",
+    "correctAnswer": "60",
+    "answerType": "numeric"
+  },
+  {
+    "id": 127,
+    "question": "Дар занҷир (ба расм нигаред) муқовимати электрии лампаҳои Л1, Л2, Л3 мувофиқан баробар ба R1 = R2 = R3 = 30 Ом, муқови-мати электрии лампаҳои Л4, Л5, Л6 баробар ба R4 = R5 = R6 = 50 Ом ва муқовимати электрии лампаҳои Л7, Л8 баробар ба R7 = R8 = 20 Ом аст. Талаба бояд кадом қитъаро аз занҷир ҷудо кунад, то ки муқовимати электрии умумии лампаҳо дар занҷир Rум = 200 Ом шавад? Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t127.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 128,
+    "question": "Агар талаба ба лампаҳо дар занҷир лампаҳои Л3 ва Л4-ро (ба расм нигаред.) пай дар пай пайваст кунад, муқовимати электрии умумии лампаҳо чӣ қадар мешавад? Ҷавобро бо ом нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t128.png",
+    "correctAnswer": "360",
+    "answerType": "numeric"
+  },
+  {
+    "id": 129,
+    "question": "Агар талаба калидро ба нуқтаи 2 пайваст кунад (ба расм нигаред), муқовимати электрии умумии резисторҳо дар занҷир чӣ қадар хоҳад шуд? Ҷавобро бо ом нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t129.png",
+    "correctAnswer": "65",
+    "answerType": "numeric"
+  },
+  {
+    "id": 130,
+    "question": "Талаба бояд аз резисторҳо зан-ҷири электрии муқовимати электрии умумиаш 35 Ом-ро созад. Ӯ кадом резистор (1, 2, 3)-ро бояд дар занҷир ба резисторҳо пай дар пай пайваст кунад (ба расм нигаред)? Муқовимати симҳои васлкунандаро ба эътибор нагиред. Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t130.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 131,
+    "question": "Ба талаба лозим аст, ки муқовимати электрии умумии резисторҳо дар занҷир Rум = 170 Ом бошад. Ӯ кадом қитъаро бояд аз занҷир ҷудо кунад (ба расм нигаред)? Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t131.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 132,
+    "question": "Дар занҷир (ба расм нигаред) муқовимати электрии лампаҳои Л1, Л2, Л3 мувофиқан баробар ба R1 = R2 = R3 = 30 Ом,  муқовимати электрии лампаҳои Л4, Л5, Л6 баробар ба R4 = R5 = R6 = 50 Ом, муқовимати электрии лампаҳои Л7ва Л8 баробар ба R7 = R8 = 20 Ом аст. Талаба бояд кадом қитъаро аз занҷир ҷудо кунад, то ки муқовимати электрии умумии лампаҳо дар занҷир Rум = 190 Ом шавад? Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t132.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 133,
+    "question": "Дар занҷир ду лампаи якхела пайваст шудаанд. Ҳангоми пайваст будани калиди К дар лампаи Л1 қувваи ҷараёни электрӣ ба 30 мА баробар аст. Агар дар нуқтаи А занҷир канда шавад, дар ин лампа қувваи ҷараёни электрӣ чӣ қадар хоҳад шуд? Ҷавобро бо миллиампер нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t133.png",
+    "correctAnswer": "0",
+    "answerType": "numeric"
+  },
+  {
+    "id": 134,
+    "question": "Дар занҷир лампаҳои якхела пайваст шудаанд. Ҳангоми пайваст будани калиди К волтметре, ки ба лампаи Л3 пайваст аст, шиддати электрии 6 В-ро нишон медиҳад. Агар дар нуқтаи С занҷир канда шавад, шиддат дар лампаи Л3 чӣ қадар хоҳад шуд? Ҷавобро бо волт нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t134.png",
+    "correctAnswer": "0",
+    "answerType": "numeric"
+  },
+  {
+    "id": 135,
+    "question": "Лампаи электрӣ ба қувваи ҷараёни I = 2 А мувофиқ сохта шудааст. Агар муқовимати мӯяки тафсониши лампа R = 25 Ом бошад, тавоноии лампа чӣ қадар аст? Ҷавобро бо ватт нависед.",
+    "correctAnswer": "100",
+    "answerType": "numeric"
+  },
+  {
+    "id": 136,
+    "question": "Чангкашаки электрӣ дар 10 дақиқа кори 360 кҶ-ро иҷро мекунад. Тавоноии миёнаи онро ёбед. Ҷавобро бо ватт нависед.",
+    "correctAnswer": "600",
+    "answerType": "numeric"
+  },
+  {
+    "id": 137,
+    "question": "Ҳангоми 12 В будани шиддат аз мӯяки тафсониши лампаи электрии мошини сабукрав ҷараёни 3 А мегузарад. Тавоноии лампаро муайян кунед. Ҷавобро бо ват нависед.",
+    "correctAnswer": "36",
+    "answerType": "numeric"
+  },
+  {
+    "id": 138,
+    "question": "Аз мӯяки тафсониши лампаи электрии тавоноияш Р = 100 Вт ҷараёни электрии қуввааш I = 2 А мегузарад. Муқовимати мӯяки тафсониши лампа чӣ қадар аст? Ҷавобро бо ом нависед.",
+    "correctAnswer": "25",
+    "answerType": "numeric"
+  },
+  {
+    "id": 139,
+    "question": "Ҳангоми ба манбаи шиддаташ доимӣ пайваст кардани манқали электрӣ (плитка) аз спирали он ҷараёни электрии қуввааш I = 10 А мегузарад (ба расм нигаред). Тавоноии манқал чӣ қадар аст? Ҷавобро бо ватт нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t139.png",
+    "correctAnswer": "2200",
+    "answerType": "numeric"
+  },
+  {
+    "id": 140,
+    "question": "Тавоноии чангкашаки электрӣ 600 Вт аст. Ҷараёни электрӣ ҳангоми 10 дақиқа истифода кардани чангкашак чӣ қадар корро иҷро мекунад? Ҷавобро бо килоҷоул нависед.",
+    "correctAnswer": "360",
+    "answerType": "numeric"
+  },
+    {
+    "id": 141,
+    "question": "Зарфи пур аз обро дар болои манқали электрӣ, ки ба манбаи ҷараёнаш 5 А ва шиддаташ 200 В мувофиқ сохта шудааст, мегузоранд. Ҳангоми ба манбаи ҷараён пайваст кардани манқал дар 10 дақиқа ба зарф чӣ қадар миқдор гармӣ дода мешавад? Ҷавобро бо килоҷоул нависед.",
+    "correctAnswer": "600",
+    "answerType": "numeric"
+  },
+  {
+    "id": 142,
+    "question": "Обҷӯшонаки электриро ба дохили зарфи обдор гузошта, ба манбаи шиддаташ доимӣ пайваст карданд. Дар t = 10 дақиқа ба об миқдори гармии Q = 132 кҶ дода шуд. Агар қувваи ҷараёни электрӣ дар обҷӯшонак I = 1 A бошад, шиддати электрии манбаъ чӣ қадар аст? Ҷавобро бо волт нависед.",
+    "correctAnswer": "220",
+    "answerType": "numeric"
+  },
+  {
+    "id": 143,
+    "question": "Обҷӯшонаки электриро ба дохили зарфи обдор гузошта, ба манбаи шиддаташ U = 220 В пайваст карданд. Агар қувваи ҷараёни электрӣ дар обҷӯшонак I = 1 A бошад, дар давоми чанд дақиқа ба об миқдори гармии Q = 66 кҶ дода мешавад?",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 144,
+    "question": "Ҳангоми электролизи маҳлули обии ZnSO4 дар муддати вақти t = 100 с дар катод руҳи массааш m = 34 мг ҷудо мешавад. Қувваи ҷараёнро дар занҷир муайян кунед. Эквиваленти электрохимиявии руҳро k = 0,34 мг/Кл қабул кунед. Ҷавобро бо ампер нависед.",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 145,
+    "question": "Дар расм схемаи пайвасти зарфи электролитӣ нишон дода шудааст. Даваки реостатро ба кадом нуқта (1, 2, 3, 4) кӯчонем, то ки дар муддати вақти муайян ҳангоми электролиз дар катод миқдори зиёдтари металл ҷудо шавад? Ҷавобро дар шакли адад нависед.",
+    "imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t145.png",
+	"correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 146,
+    "question": "Массаи руҳро муайян кунед, ки ҳангоми электролизи маҳлули обии ZnSO4 пас аз t = 100 с дар катод ҷудо мешавад. Қувваи ҷараён дар занҷир I = 1 А аст. Эквиваленти электрохимиявии руҳро k = 0,34 мг/Кл қабул кунед. Ҷавобро бо миллиграмм нависед.",
+    "correctAnswer": "34",
+    "answerType": "numeric"
+  },
+  {
+    "id": 147,
+    "question": "Пас аз чанд вақт ҳангоми электролизи маҳлули обии ZnSO4 дар катод руҳи массааш m = 34 мг ҷудо мешавад? Қувваи ҷараён дар занҷир I = 1 А аст. Эквиваленти электрохимиявии руҳро k = 0,34 мг/Кл қабул кунед. Ҷавобро бо сония нависед.",
+    "correctAnswer": "100",
+    "answerType": "numeric"
+  },
+  {
+    "id": 148,
+    "question": "Дар майдони магнитии индуксияаш 0,2 Тл ба ноқили дарозиаш 1 м чӣ қадар қувва таъсир мекунад? Қувваи ҷараёни аз ноқил ҷорибуда ба 10 А баробар мебошад. Ноқил ба хатҳои индуксияи майдон перпендикуляр гузошта шудааст. Ҷавобро бо нютон нависед.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 149,
+    "question": "ҚЭҲ (ҚуМЭ)-и индуксия дар қоби (рамка) росткунҷа вобаста ба вақт мувофиқи муодилаи 𝐞 = 50cos(5πt) (B) тағйир меёбад. Амплитудаи ҚЭҲ (ҚуМЭ)-и индуксияро муайян кунед. Ҷавобро дар СИ ифода намоед.",
+    "correctAnswer": "50",
+    "answerType": "numeric"
+  },
+  {
+    "id": 150,
+    "question": "Дар контури индуктивияташ L = 20 мҲн сели магнитии Ф = 200 мВб пайдо мешавад. Қувваи ҷараён дар контур чӣ қадар аст? Ҷавобро бо ампер нависед.",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 151,
+    "question": "Қувваи ҷараён дар контури индуктивияташ L = 0,1 мГн ба I = 20 А баробар аст. Сели магнитиро дар контур муайян кунед. Ҷавобро бо милливебер нависед.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 152,
+    "question": "Дар контури индуктивияташ L = 1 мҲн қувваи ҷараён I = 5 А аст. Сели магнитии дар контур бавуҷудомадаро муайян кунед. Ҷавобро бо милливебер нависед.",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 153,
+    "question": "Дар расм графики вобастагии тағйирёбии ҚЭҲ аз вақт нишон дода шудааст. Дар чанд миллисония аз оғози пайдоиши лаппиш як лаппиши пурраи ҚЭҲ мушоҳида мешавад?",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t153.png",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 154,
+    "question": "Муодилаи u = 3cos(105t) (B) вобастагии тағйирёбии шиддат аз вақтро дар контури лаппиш тавсиф медиҳад. Амплитудаи лаппиши шиддат чанд волт аст?",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t154.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 155,
+    "question": "Дар расм графики вобастагии тағйирёбии ҚЭҲ аз вақт нишон дода шудааст. Адади лаппишҳои ҚЭҲ-ро дар 8 мс аз оғози пайдоиши лаппиш муайян кунед. Ҷавобро дар СИ ифода намоед.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 156,
+    "question": "Мавҷҳои электромагнитӣ тахминан бо суръати 3×10⁸ м/с паҳн мешаванд. Пас аз чанд вақт сигнали электриро, ки аз Душанбе фиристонда мешавад, дар Хуҷанд қабул мекунанд? Дарозии хатти нақли мавҷҳои электромагнитӣ тахминан 3×10⁵ м аст. Ҷавобро бо миллисония нависед.",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 157,
+    "question": "Коэффитсиенти трансформатсияи трансформатор k = 4 аст. Адади печакҳои симпечи якуми трансформатор ба N1 = 800 баробар аст. Симпечи дуюми трансформатор чанд печак дорад?",
+    "correctAnswer": "200",
+    "answerType": "numeric"
+  },
+  {
+    "id": 158,
+    "question": "Даври лаппиши мавҷи электромагнитӣ Т = 0,001 с мебошад. Басомади лаппиши мавҷро ёбед. Ҷавобро бо ҳертс нависед.",
+    "correctAnswer": "1000",
+    "answerType": "numeric"
+  },
+  {
+    "id": 159,
+    "question": "Даври лаппиши мавҷи электромагнитии басомадаш ν = 1 000 Ҳc-ро ёбед. Ҷавобро бо миллисония нависед.",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 160,
+    "question": "Ротори муҳаррики электрӣ дар давоми t = 10 сония n = 500 гардиш мекунад. Басомади гардиши роторро ёбед. Ҷавобро бо ҳертс нависед.",
+    "correctAnswer": "50",
+    "answerType": "numeric"
+  },
+    {
+    "id": 161,
+    "question": "Даври лаппиши мавҷи электромагнитиро дар вакуум муайян кунед, ки дар он контури лаппиши басомадаш ν = 1ꞏ10⁴ Ҳс танзим шудааст. Ҷавобро бо микросония нависед.",
+    "correctAnswer": "100",
+    "answerType": "numeric"
+  },
+  {
+    "id": 162,
+    "question": "Басомади такрорёбии импулсҳои радиолокатор ν = 2 000 Ҳс мебошад. Даври импулсҳои локаторро ёбед. Ҷавобро бо микросония нависед.",
+    "correctAnswer": "500",
+    "answerType": "numeric"
+  },
+  {
+    "id": 163,
+    "question": "Басомади мавҷи электромагнитиро муайян кунед, ки ба он дар вакуум контури лаппиши давраш Т = 2ꞏ10⁻⁴ с танзим шудааст. Ҷавобро бо ҳертс нависед.",
+    "correctAnswer": "5000",
+    "answerType": "numeric"
+  },
+  {
+    "id": 164,
+    "question": "Дар радио басомади лаппиши яке аз ҳудудҳои кӯтоҳмавҷ ν = 1ꞏ10⁷ Ҳс мебошад. Даври лаппиши мавҷи электромагнитиро ёбед. Ҷавобро бо наносония нависед.",
+    "correctAnswer": "100",
+    "answerType": "numeric"
+  },
+  {
+    "id": 165,
+    "question": "Басомади афканишотеро ёбед, ки дарозии мавҷаш λ = 1∙ 10⁻⁶ м аст. Суръати афканишотро С = 3∙ 10⁸ м/с қабул кунед. Ҷавобро бо ҳертс нависед.",
+    "correctAnswer": "300",
+    "answerType": "numeric"
+  },
+  {
+    "id": 166,
+    "question": "Басомади афканишотеро ёбед, ки ҳангоми он дар сатҳи мис фотоэффект ба вуҷуд меояд. Кори бароварди электронҳо аз мис Аб = 13,2 ∙ 10⁻¹⁹ Ҷ аст. Доимии Планкро h = 6,6∙ 10⁻³⁴ Ҷꞏс қабул кунед. Ҷавобро бо тераҳертс нависед.",
+    "correctAnswer": "2000",
+    "answerType": "numeric"
+  },
+  {
+    "id": 167,
+    "question": "Басомади афканишоти фотон ν = 1∙ 10¹⁷ Ҳс аст. Дарозии мавҷи афканишотро ёбед. Суръати афканишотро С = 3∙ 10⁸ м/с қабул кунед. Ҷавобро бо нанометр нависед.",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 168,
+    "question": "Сарҳади сурхи фотоэффектро барои синк муайян кунед. Кори бароварди электронҳоро аз синк А = 4 эВ ва доимии Планкро h = 4ꞏ10⁻¹⁵ эВꞏс қабул кунед. Ҷавобро бо тераҳертс нависед.",
+    "correctAnswer": "1000",
+    "answerType": "numeric"
+  },
+  {
+    "id": 169,
+    "question": "Сели рӯшноии Ф = 4 люмен ба сатҳи масоҳаташ S = 100 см² меафтад. Равшании сатҳ чӣ қадар аст? Ҷавобро бо люкс нависед.",
+    "correctAnswer": "400",
+    "answerType": "numeric"
+  },
+  {
+    "id": 170,
+    "question": "Аз лампае, ки қувваи рӯшноиаш I = 80 кд аст, рӯшноӣ ба масофаи R = 4 м меафтад. Ҳангоми муътадил афтидани рӯшноӣ равшании лампа дар ин масофа чӣ қадар аст? Ҷавобро бо люкс нависед.",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 171,
+    "question": "Калонкунии линзаро ёбед: Ҷавобро дар шакли адад нависед.",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t171.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 172,
+    "question": "Предмети андозаи хаттиаш h = 2 см дар масофае аз линзаи ҷамъоварандаи калонкунии хаттиаш Г = 5 ҷойгир аст. Андозаи хаттии тасвири ин предмет дар линза чанд сантиметр хоҳад шуд?",
+    "correctAnswer": "10",
+    "answerType": "numeric"
+  },
+  {
+    "id": 173,
+    "question": "Калонкунии хаттии линза Г = 2 мебошад. Андозаи хаттии предмети АВ чанд сантиметр аст (ба расм нигаред)?",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t173.png",
+    "correctAnswer": "3",
+    "answerType": "numeric"
+  },
+  {
+    "id": 174,
+    "question": "Предмет аз линза дар масофаи 40 см ҷойгир аст. Агар тасвири предмет аз линза дар масофаи 80 см ҳосил шуда бошад, калонкунии линза чӣ қадар аст?",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 175,
+    "question": "Калонкунии хаттии линза Г = 4 мебошад. Андозаи хаттии тасвири предмети А՛В՛ чанд сантиметр аст (ба расм нигаред)?",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t175.png",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 176,
+    "question": "Андозаи хаттии предмет h = 8 см мебошад. Андозаи хаттии тасвири ин предмет дар линзаи калонкунии хаттиаш Г = 2 чанд сантиметр хоҳад шуд?",
+    "correctAnswer": "16",
+    "answerType": "numeric"
+  },
+  {
+    "id": 177,
+    "question": "Калонкунии хаттии линза Г = 3 мебошад. Андозаи хаттии предмети АВ чанд сантиметр аст (ба расм нигаред)?",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t177.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 178,
+    "question": "Масофаи конунии объективи телескопи ҳозиразамон 30 м буда, масофаи конунии окуляри он 0,2 м аст. Калонкунии телескопро муайян кунед.",
+    "correctAnswer": "150",
+    "answerType": "numeric"
+  },
+  {
+    "id": 179,
+    "question": "Калонкунии хатии линзаро муайян кунед:",
+	"imageUrl": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/physics_images/t179.png",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 180,
+    "question": "Қувваи оптикии линзаи айнаки одами дурбин D = 5 дптр аст. Масофаи конунии (фокусӣ) линзаи айнакро муайян кунед. Ҷавобро бо сантиметр нависед.",
+    "correctAnswer": "20",
+    "answerType": "numeric"
+  },
+    {
+    "id": 181,
+    "question": "Масофаи конунии линзаи ҷамъоваранда F = 0,25 м аст. Қувваи оптикии линзаро ёбед.",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 182,
+    "question": "Калонкунии пурбинеро ёбед, ки масофаи конунии (фокусӣ) он F = 0,125 м мебошад. Масофаи биниши беҳтарин 0,25 м аст.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 183,
+    "question": "Масофаи конунии пурбинеро ёбед, ки калонкунии он Г = 5 мебошад. Масофаи биниши беҳтарин ба 0,25 м баробар аст. Ҷавобро бо сантиметр нависед.",
+    "correctAnswer": "5",
+    "answerType": "numeric"
+  },
+  {
+    "id": 184,
+    "question": "Басомади ҳудудии афканишотро (сарҳади сурхи фотоэффект) муайян кунед, ки ҳангоми он дар сатҳи сезий фотоэффект мушоҳида шуд. Доимии Планк h = 4ꞏ10-15 эВꞏс ва кори бароварди электронҳо аз сезий Аб = 2 эВ аст. Ҷавобро бо тераҳертс нависед.",
+    "correctAnswer": "500",
+    "answerType": "numeric"
+  },
+  {
+    "id": 185,
+    "question": "Ҳангоми афканиши платина электронҳо аз сатҳи он бо энергияи кинетикии максималии Ек = 19 эВ канда мешаванд. Агар кори бароварди электронҳо аз платина Аб = 5 эВ бошад, энергияи афканишот чӣ қадар аст? Ҷавобро бо электронволт нависед.",
+    "correctAnswer": "24",
+    "answerType": "numeric"
+  },
+  {
+    "id": 186,
+    "question": "Электронҳо дар гирди ядрои атом аз рӯйи мадорҳои муайяне (қабатҳои электронӣ) давр мезананд. Миқдори зиёдтарини электронҳоро муайян кунед, ки дар қабати электронии дуюм (n = 2) ғунҷида метавонад.",
+    "correctAnswer": "8",
+    "answerType": "numeric"
+  },
+  {
+    "id": 187,
+    "question": "Шумораи электронҳои таркиби атоми ҳелий 𝟒𝑯𝒆 аз шумораи электронҳои таркиби атоми ҳидроген 𝟏 аст? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 188,
+    "question": "Массаи атоми нейтрали алфа-зарра 𝟒𝑯𝒆 аз массаи атоми нейтрали протий 𝟏 𝟐 чанд маротиба зиёдтар аст? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 189,
+    "question": "Чанд протон (𝟏𝑷)-ро дар реаксияи термоядроӣ бояд бо ҳам пайваст намуд, то ки дейтерий 𝟐𝑯, позитрон Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 190,
+    "question": "Ҳангоми аз ядрои атоми элемент хориҷ шудани протон 𝟏𝑷 рақами тартибии ин элемент чанд воҳид кам мешавад? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 191,
+    "question": "Рақами тартибии элементи химиявӣ ҳангоми алфа-коҳиш чанд воҳид кам мешавад? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 192,
+    "question": "Ҳангоми аз ядрои атоми элемент хориҷ шудани нейтрон 𝟏𝒏 массаи атомии (адади массавӣ) элемент чанд воҳид кам мешавад? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "1",
+    "answerType": "numeric"
+  },
+  {
+    "id": 193,
+    "question": "Агар аз ядрои атоми элемент ду протон (𝟏𝑷) хориҷ шавад, массаи атомии (адади массавии) элемент чанд воҳид кам мешавад? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 194,
+    "question": "Агар аз таркиби ядрои атоми элемент алфа-зарра 𝟒𝑯𝒆 хориҷ шавад, массаи атомии (адади массавӣ) элемент чанд воҳид кам мешавад? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "4",
+    "answerType": "numeric"
+  },
+  {
+    "id": 195,
+    "question": "Шумораи нейтронҳои таркиби ядрои атоми тритий 𝟑𝑯 аз шумораи протонҳои ядрои он чанд маротиба зиёдтар аст? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "2",
+    "answerType": "numeric"
+  },
+  {
+    "id": 196,
+    "question": "Агар аз ядрои атоми радий 𝟐𝟐𝟔𝑹𝒂 алфа-зарра 𝟒𝑯𝒆 ҷудо шавад, 𝟖𝟖 𝟐 элементи ҳосилшуда соҳиби чанд протон хоҳад шуд? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "86",
+    "answerType": "numeric"
+  },
+  {
+    "id": 197,
+    "question": "Агар аз ядрои атоми радий 𝟐𝟐𝟔𝑹𝒂 протон 𝟏𝑷 ҷудо шавад, элементи 𝟖𝟖 𝟏 ҳосилшуда соҳиби чанд протон хоҳад шуд? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "87",
+    "answerType": "numeric"
+  },
+  {
+    "id": 198,
+    "question": "Агар аз ядрои атоми уран 𝟐𝟑𝟖𝑼 алфа-зарра 𝟒𝑯𝒆 ҷудо шавад, элементи 𝟗𝟐 𝟐 ҳосилшуда чанд протон хоҳад дошт? Ҷавобро дар шакли адад нависед.",
+    "correctAnswer": "90",
     "answerType": "numeric"
   }
 ]
