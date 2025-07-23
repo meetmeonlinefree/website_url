@@ -290,5 +290,822 @@
     "options": ["8", "43", "9", "32"],
     "correctIndex": 1,
     "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/30.png"
+  },
+    {
+    "id": 31,
+    "question": "Дар ҷойи холӣ кадом ададро навиштан лозим аст, ки баробарӣ дуруст шавад?",
+    "options": ["21", "14", "3", "2"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/31.png"
+  },
+  {
+    "id": 32,
+    "question": "Дар ҷойи холӣ кадом ададро навиштан лозим аст, ки баробарӣ дуруст шавад?",
+    "options": ["13", "8", "3", "4"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/32.png"
+  },
+  {
+    "id": 33,
+    "question": "Дар ҷойи холӣ кадом ададро навиштан лозим аст, ки баробарӣ дуруст шавад?",
+    "options": ["2", "1", "4", "3"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/33.png"
+  },
+  {
+    "id": 34,
+    "question": "Ҳисоб кунед:",
+    "options": ["3", "—3", "30", "9"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/34.png"
+  },
+  {
+    "id": 35,
+    "question": "Ҳисоб кунед:",
+    "options": ["—15", "4", "—8", "15"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/35.png"
+  },
+  {
+    "id": 36,
+    "question": "Ҳисоб кунед:",
+    "options": ["—120", "—98", "—70", "—60"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/36.png"
+  },
+  {
+    "id": 37,
+    "question": "Ҳисоб кунед:",
+    "options": ["15", "10", "11", "14"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/37.png"
+  },
+  {
+    "id": 38,
+    "question": "Ҳисоб кунед:",
+    "options": ["15", "21", "9", "13"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/38.png"
+  },
+  {
+    "id": 39,
+    "question": "Ҳисоб кунед:",
+    "options": ["3", "7", "6", "5"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/39.png"
+  },
+  {
+    "id": 40,
+    "question": "Ҳисоб кунед:",
+    "options": ["24", "25", "10", "15"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/40.png"
+  },
+    {
+    "id": 41,
+    "question": "Ҳисоб кунед:",
+    "options": ["22", "44", "11", "55"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/41.png"
+  },
+  {
+    "id": 42,
+    "question": "Ҳисоб кунед:",
+    "options": ["96", "21", "42", "84"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/42.png"
+  },
+  {
+    "id": 43,
+    "question": "Ҳисоб кунед:",
+    "options": ["37", "1", "9", "5"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/43.png"
+  },
+  {
+    "id": 44,
+    "question": "Ҳисоб кунед:",
+    "options": ["246", "544", "132", "534"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/44.png"
+  },
+  {
+    "id": 45,
+    "question": "Ҳисоб кунед:",
+    "options": ["5", "7", "6", "8"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/45.png"
+  },
+  {
+    "id": 46,
+    "question": "Ҳисоб кунед:",
+    "options": ["12", "20", "25", "10"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/46.png"
+  },
+  {
+    "id": 47,
+    "question": "Ҳисоб кунед:",
+    "options": ["12", "15", "20", "25"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/47.png"
+  },
+  {
+    "id": 48,
+    "question": "Ҳисоб кунед:",
+    "options": ["3", "18", "12", "6"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/48.png"
+  },
+  {
+    "id": 49,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["1,9", "3,9", "10", "12"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/49.png"
+  },
+  {
+    "id": 50,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["10", "81", "82", "9"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/50.png"
+  },
+    {
+    "id": 51,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["4,6", "10", "14", "8,6"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/51.png"
+  },
+  {
+    "id": 52,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["53√2", "13√2", "19", "13"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/52.png"
+  },
+  {
+    "id": 53,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["4√2", "0", "2", "2√2"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/53.png"
+  },
+  {
+    "id": 54,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["11,5", "7", "11,75", "19"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/54.png"
+  },
+  {
+    "id": 55,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["398", "796", "798", "804"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/55.png"
+  },
+  {
+    "id": 56,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["18", "9,9", "10", "12"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/56.png"
+  },
+  {
+    "id": 57,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["4,8", "—24", "84", "114"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/57.png"
+  },
+  {
+    "id": 58,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["21", "7", "441", "735"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/58.png"
+  },
+  {
+    "id": 59,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["48", "30", "738", "900"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/59.png"
+  },
+  {
+    "id": 60,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["40", "—20", "20", "—40"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/60.png"
+  },
+    {
+    "id": 61,
+    "question": "Ҳисоб кунед:",
+    "options": ["√29", "7√5", "29", "7"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/61.png"
+  },
+  {
+    "id": 62,
+    "question": "Ҳисоб кунед:",
+    "options": ["√3", "4", "6√3", "2"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/62.png"
+  },
+  {
+    "id": 63,
+    "question": "Ҳисоб кунед:",
+    "options": ["5", "√5", "4", "4√5"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/63.png"
+  },
+  {
+    "id": 64,
+    "question": "Ҳисоб кунед:",
+    "options": ["4", "√2", "2", "√3"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/64.png"
+  },
+  {
+    "id": 65,
+    "question": "Ҳисоб кунед:",
+    "options": ["√7", "3", "√5", "9"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/65.png"
+  },
+  {
+    "id": 66,
+    "question": "Ҳисоб кунед:",
+    "options": ["16", "8", "4", "2"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/66.png"
+  },
+  {
+    "id": 67,
+    "question": "Ҳисоб кунед:",
+    "options": ["4", "6", "8", "10"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/67.png"
+  },
+  {
+    "id": 68,
+    "question": "Ҳисоб кунед:",
+    "options": ["4", "6", "8", "10"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/68.png"
+  },
+  {
+    "id": 69,
+    "question": "Ҳисоб кунед:",
+    "options": ["4", "6", "8", "10"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/69.png"
+  },
+  {
+    "id": 70,
+    "question": "Ҳисоб кунед:",
+    "options": ["10", "2", "—1", "3"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/70.png"
+  },
+    {
+    "id": 71,
+    "question": "Ҳисоб кунед:",
+    "options": ["9", "4", "—3", "8"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/71.png"
+  },
+  {
+    "id": 72,
+    "question": "Ҳисоб кунед:",
+    "options": ["11", "22", "15", "10"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/72.png"
+  },
+  {
+    "id": 73,
+    "question": "Ифодаро сода кунед:",
+    "options": ["12", "14𝑐", "7", "2𝑐2"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/73.png"
+  },
+  {
+    "id": 74,
+    "question": "Ифодаро сода кунед:",
+    "options": ["5𝑧", "4", "3𝑧", "0"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/74.png"
+  },
+  {
+    "id": 75,
+    "question": "Ифодаро сода кунед:",
+    "options": ["9", "20", "5𝑦", "2𝑦2"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/75.png"
+  },
+  {
+    "id": 76,
+    "question": "Барои адади натуралии 𝒏 қимати ифодаро ёбед:",
+    "options": ["0", "—4", "1", "—1"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/76.png"
+  },
+  {
+    "id": 77,
+    "question": "Барои адади натуралии 𝒏 қимати ифодаро ёбед:",
+    "options": ["0", "2", "4", "1"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/77.png"
+  },
+  {
+    "id": 78,
+    "question": "Барои адади натуралии 𝒏 қимати ифодаро ёбед:",
+    "options": ["0,8", "0", "2,5", "0,4"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/78.png"
+  },
+  {
+    "id": 79,
+    "question": "Қимати ифодаро ҳангоми 𝒏 = 𝟑 будан ёбед:",
+    "options": ["0", "16", "32", "48"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/79.png"
+  },
+  {
+    "id": 80,
+    "question": "Қимати ифодаро ҳангоми 𝒏 = 𝟐 будан ёбед:",
+    "options": ["—54", "—27", "—81", "—108"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/80.png"
+  },
+    {
+    "id": 81,
+    "question": "Қимати ифодаро ҳангоми 𝒏 = 𝟑 будан ёбед:",
+    "options": ["—75", "—100", "—25", "—50"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/81.png"
+  },
+  {
+    "id": 82,
+    "question": "Ифодаро сода кунед:",
+    "options": ["—9", "9𝑎", "81", "—9𝑐"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/82.png"
+  },
+  {
+    "id": 83,
+    "question": "Ифодаро сода кунед:",
+    "options": ["—8", "8𝑚", "8", "—8𝑛"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/83.png"
+  },
+  {
+    "id": 84,
+    "question": "Ифодаро сода кунед:",
+    "options": ["—6", "6𝑥", "6", "—6𝑦"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/84.png"
+  },
+  {
+    "id": 85,
+    "question": "Ифодаро сода кунед:",
+    "options": ["5", "10𝑦", "5𝑥", "10"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/85.png"
+  },
+  {
+    "id": 86,
+    "question": "Ифодаро сода кунед:",
+    "options": ["3", "3𝑚", "𝑛", "1"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/86.png"
+  },
+  {
+    "id": 87,
+    "question": "Ифодаро сода кунед:",
+    "options": ["4𝑎", "8𝑏", "4", "0"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/87.png"
+  },
+  {
+    "id": 88,
+    "question": "Ифодаро сода кунед:",
+    "options": ["𝑏", "1", "𝑎", "2"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/88.png"
+  },
+  {
+    "id": 89,
+    "question": "Ифодаро сода кунед:",
+    "options": ["𝑎", "𝑎2", "1", "2"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/89.png"
+  },
+  {
+    "id": 90,
+    "question": "Ифодаро сода кунед:",
+    "options": ["4", "𝑏 — 3", "8", "𝑏 — 4"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/90.png"
+  },
+    {
+    "id": 91,
+    "question": "Ифодаро сода кунед:",
+    "options": ["2", "𝑚 — 𝑛", "—𝑛", "2𝑚"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/91.png"
+  },
+  {
+    "id": 92,
+    "question": "Ифодаро сода кунед:",
+    "options": ["𝑎 — 2", "3", "2", "3𝑎 — 3"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/92.png"
+  },
+  {
+    "id": 93,
+    "question": "Ифодаро сода кунед:",
+    "options": ["𝑥 + 6", "6", "7", "2𝑥 — 14"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/93.png"
+  },
+  {
+    "id": 94,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Адади дилхоҳи таркибиро ба зарбшавандаҳои сода ҷудо кардан мумкин аст.",
+      "Ададҳои таркибие мавҷуданд, ки онҳоро ба зарбшавандаҳои сода ҷудо кардан мумкин нест.",
+      "Адади 1 ба ададҳои сода мансуб аст.",
+      "Адади 2 ба ададҳои таркибӣ мансуб аст."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 95,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Ҳар як адади содаро ба зарбшавандаҳо ҷудо кардан мумкин аст, ки ҳар кадоми онҳо аз 1 калон аст.",
+      "Ҳар як адади таркибӣ фақат се тақсимкунанда дорад.",
+      "Ҳа р як адади сода фақат ду тақсимкунанда дорад.",
+      "Адади 1 ҳам ба ададҳои таркибӣ ва ҳам ба ададҳои сода мансуб аст."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 96,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Суммаи ду адади баробар ба нол баробар аст.",
+      "Суммаи ду адади манфӣ ҳамеша мусбат аст.",
+      "Ҳосили зарби ду адади ба ҳамдигар муқобил ба 1 баробар аст.",
+      "Ҳар як адад танҳо як адади ба худ муқобил дорад."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 97,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Касри нодуруст аз як хурд аст.",
+      "Дар касри дуруст сурат аз махраҷ калон аст.",
+      "Дар касри дуруст сурат аз махраҷ хурд аст.",
+      "Касри дуруст аз як калон аст."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 98,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Агар сурат ва махраҷи каср ба ҳамон як адади натуралӣ зарб карда шавад, касри аз касри додашуда калон ҳосил мешавад.",
+      "Агар сурат ва махраҷи каср ба ҳамон як адади натуралӣ тақсим карда шавад, касри аз касри додашуда хурд ҳосил мешавад.",
+      "Ду касри баробар навишти гуногуни як адад мебошанд.",
+      "Агар ду касри нобаробар ба махраҷи умумӣ оварда шаванд, касрҳои баробар ҳосил мешаванд."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 99,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Ҳангоми ба дараҷа бардоштани адади нул як ҳосил мешавад.",
+      "Адади манфии нишондиҳандаи дараҷааш тоқ адади мусбат аст.",
+      "Адади манфии нишондиҳандаи дараҷааш ҷуфт адади мусбат аст.",
+      "Адади мусбати нишондиҳандаи дараҷааш тоқ адади манфӣ аст."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 100,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Аз ҳама адади хурдтарини натуралӣ нул мебошад.",
+      "Ҳангоми ҷойивазкунии ҷамъшавандаҳо сумма тағйир меёбад.",
+      "Натиҷаи тарҳ фарқ ном дорад.",
+      "Агар аз адад нулро тарҳ кунем, нул ҳосил мешавад."
+    ],
+    "correctIndex": 2
+  },
+    {
+    "id": 101,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Ҳар як адад дар натиҷаи ба он ҷамъ кардани нул зиёд мешавад.",
+      "Ҳар як адад дар натиҷаи аз он тарҳ кардани нул кам мешавад.",
+      "Суммаи ду адади муқобил ба нул баробар нест.",
+      "Нол аз ҳар як адади манфӣ калон аст."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 102,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Ҳосили зарби ду адади манфӣ адади манфӣ аст.",
+      "Ҳосили зарби адади мусбат ва адади манфӣ адади манфӣ аст.",
+      "Ҳосили зарби ду адади мусбат адади манфӣ аст.",
+      "Ҳосили зарби адади манфӣ ва адади мусбат адади мусбат аст."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 103,
+    "question": "Тасдиқоти нодурустро муайян кунед.",
+    "options": [
+      "Ададҳои бутуни тоқ ба 3 бе бақия тақсим мешаванд.",
+      "Ададҳои бутуни ҷуфт ба 2 бе бақия тақсим мешаванд.",
+      "Ададҳои бутуни бо нул тамомшаванда ба 10 бе бақия тақсим мешаванд.",
+      "Ададҳои бутуни ба 6 бе бақия тақсимшаванда ба 3 бе бақия низ тақсим мешаванд."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 104,
+    "question": "Тасдиқоти нодурустро муайян кунед.",
+    "options": [
+      "Ададҳои натуралии бо 5 тамомшаванда ба 5 бе бақия тақсим мешаванд.",
+      "Ададҳои натуралии ба 9 бе бақия тақсимшаванда ба 3 бе бақия тақсим мешаванд.",
+      "Ададҳои натуралии ба 6 тамомшаванда ба 6 бе бақия тақсим мешаванд.",
+      "Ададҳои натуралии ба 22 бе бақия тақсимшаванда ба 11 бе бақия тақсим мешаванд."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 105,
+    "question": "Тасдиқоти нодурустро муайян кунед.",
+    "options": [
+      "Ҳамаи ададҳои бутуни ҷуфти ба 7 бе бақия тақсимшаванда ба 14 бе бақия тақсим мешаванд.",
+      "Ҳамаи ададҳои бутуни ба 3 бе бақия тақсимшаванда ба 9 бе бақия тақсим мешаванд.",
+      "Ҳамаи ададҳои бутуни бо рақами 0 тамомшаванда ба 5 ва ба 10 бе бақия тақсим мешаванд.",
+      "Ҳамаи ададҳои бутуни ба 4 бе бақия тақсимшаванда ба 2 бе бақия тақсим мешаванд."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 106,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Суммаи дилхоҳ ду адади натуралии тоқ ба 2 бе бақия тақсим мешавад.",
+      "Суммаи дилхоҳ ду адади натуралии ҷуфт ба 4 бе бақия тақсим мешавад.",
+      "Суммаи дилхоҳ ду адади натуралии тоқ ба 2 бе бақия тақсим намешавад.",
+      "Суммаи дилхоҳ ду адади натуралии ҷуфт ба 4 бе бақия тақсим намешавад."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 107,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Модули адади манфӣ ба адади манфӣ баробар аст.",
+      "Модули адади мусбат ба адади манфӣ ва мусбат баробар аст.",
+      "Модули фарқи ду адад ҳамеша адади манфӣ аст.",
+      "Модули дилхоҳ адади ғайринулӣ ба адади мусбат баробар аст."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 108,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Решаи квадратӣ аз дилхоҳ адади бутун ба адади бутун баробар аст.",
+      "Решаи квадратӣ аз адади манфӣ ба адади манфӣ баробар аст.",
+      "Решаи квадратӣ аз дилхоҳ адади натуралӣ ба адади натуралӣ баробар аст.",
+      "Решаи квадратӣ аз дилхоҳ квадрати адади бутуни ғайринулӣ ба адади натуралӣ баробар аст."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 109,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Дараҷаи адади нишондиҳандааш нул вуҷуд надорад.",
+      "Дараҷаи адади нишондиҳандааш манфӣ адади манфӣ аст.",
+      "Дараҷаи адади натуралии нишондиҳандааш натуралӣ адади натуралӣ аст.",
+      "Дараҷаи адади манфии нишондиҳандааш тоқ адади мусбат аст."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 110,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Дилхоҳ муодилаи квадратии нопурра ду решаҳои гуногун дорад.",
+      "Агар дискриминанти дилхоҳ муодилаи квадратӣ мусбат бошад, муодила ду решаи натуралӣ дорад.",
+      "Агар дискриминанти дилхоҳ муодилаи квадратӣ манфӣ бошад, муодила решаи ратсионалӣ надорад.",
+      "Ҳамаи коэффисиентҳои муодилаи квадратии нопурра аз нул фарқ мекунанд."
+    ],
+    "correctIndex": 2
+  },
+    {
+    "id": 111,
+    "question": "Тасдиқоти дурустро муайян кунед.",
+    "options": [
+      "Муодилаи хаттии дилхоҳ як реша дорад.",
+      "Муодилаҳое, ки решаҳои якхела доранд, баробарқувва мебошанд.",
+      "Муодилаҳое, ки реша надоранд, баробарқувва нестанд.",
+      "Агар дар муодилаи хаттии дилхоҳ коэффисиенти назди 𝑥 ба нул баробар бошад, муодила реша дорад."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "Решаи муодиларо ёбед:",
+    "options": [
+      "21",
+      "50",
+      "10",
+      "40"
+    ],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/112.png"
+  },
+  {
+    "id": 113,
+    "question": "Решаи муодиларо ёбед:",
+    "options": [
+      "30",
+      "48",
+      "80",
+      "90"
+    ],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/113.png"
+  },
+  {
+    "id": 114,
+    "question": "Решаи муодиларо ёбед:",
+    "options": [
+      "9",
+      "7",
+      "13",
+      "14"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/114.png"
+  },
+  {
+    "id": 115,
+    "question": "Решаи муодиларо ёбед:",
+    "options": [
+      "54",
+      "22",
+      "27",
+      "47"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/115.png"
+  },
+  {
+    "id": 116,
+    "question": "Решаи муодиларо ёбед:",
+    "options": [
+      "300",
+      "100",
+      "220",
+      "200"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/116.png"
+  },
+  {
+    "id": 117,
+    "question": "Решаи муодиларо ёбед:",
+    "options": [
+      "150",
+      "350",
+      "100",
+      "50"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/117.png"
+  },
+  {
+    "id": 118,
+    "question": "Решаи муодиларо ёбед:",
+    "options": [
+      "—2",
+      "8",
+      "3,5",
+      "—1,2"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/118.png"
+  },
+  {
+    "id": 119,
+    "question": "Решаи муодиларо ёбед:",
+    "options": [
+      "2",
+      "1,2",
+      "—5,2",
+      "—5"
+    ],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/119.png"
+  },
+  {
+    "id": 120,
+    "question": "Решаи муодиларо ёбед:",
+    "options": [
+      "3,5",
+      "—2,5",
+      "7",
+      "—1"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/120.png"
+  },
+    {
+    "id": 121,
+    "question": "Кадом адад решаи муодилаи 𝒙(𝒙𝟐 — 𝟕) = 𝟔 аст?",
+    "options": ["1", "7", "3", "6"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/121.png"
+  },
+  {
+    "id": 122,
+    "question": "Кадом адад решаи муодилаи 𝒙𝟐 — 𝟑 = 𝟏𝟏(𝒙 — 𝟑) аст?",
+    "options": ["—6", "5", "3", "—4"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/122.png"
+  },
+  {
+    "id": 123,
+    "question": "Кадом адад решаи муодилаи 𝒙𝟐(𝒙 + 𝟔) = 𝟏𝟔 аст?",
+    "options": ["—2", "4", "2", "—4"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/123.png"
+  },
+  {
+    "id": 124,
+    "question": "Решаи муодиларо ёбед:",
+    "options": ["4", "—2", "6", "—7"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/124.png"
+  },
+  {
+    "id": 125,
+    "question": "Решаи муодиларо ёбед:",
+    "options": ["3", "—6", "—4", "9"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/125.png"
+  },
+  {
+    "id": 126,
+    "question": "Решаи муодиларо ёбед:",
+    "options": ["—7", "8", "12", "—4"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/126.png"
+  },
+  {
+    "id": 127,
+    "question": "Решаи муодиларо ёбед:",
+    "options": ["5,2", "3,1", "0,3", "1,5"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/127.png"
+  },
+  {
+    "id": 128,
+    "question": "Решаи муодиларо ёбед:",
+    "options": ["7,5", "6", "8", "5,5"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/128.png"
+  },
+  {
+    "id": 129,
+    "question": "Решаи муодиларо ёбед:",
+    "options": ["11,75", "33,5", "16,75", "8,5"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/129.png"
+  },
+  {
+    "id": 130,
+    "question": "Муодиларо ҳал кунед:",
+    "options": ["4", "16", "8", "2"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/130.png"
   }
 ]
