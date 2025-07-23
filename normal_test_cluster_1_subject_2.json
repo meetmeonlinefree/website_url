@@ -199,24 +199,96 @@
   },
   {
     "id": 19,
-    "question": "Қимати ифодаро ёбед: 4 ÷ 5 - 1 ÷ 5 ∙ 2 ÷ 3",
+    "question": "Қимати ифодаро ёбед:",
     "options": [
       "2/3",
       "0,5",
       "0,9",
       "0,4"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/19.png"
   },
   {
     "id": 20,
-    "question": "Қимати ифодаро ёбед: 5 ÷ 6 - 1 ÷ 6 ∙ 3 ÷ 4",
+    "question": "Қимати ифодаро ёбед:",
     "options": [
       "0,6",
       "11/18",
       "0,5",
       "8/9"
     ],
-    "correctIndex": 1
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/20.png"
+  },
+    {
+    "id": 21,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["2,1", "5/6", "2,5", "2 1"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/21.png"
+  },
+  {
+    "id": 22,
+    "question": "Ҳисоб кунед:",
+    "options": ["22,8", "7,5", "75", "40,3"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/22.png"
+  },
+  {
+    "id": 23,
+    "question": "Ҳисоб кунед:",
+    "options": ["16,5", "—2,9", "0,3", "9,3"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/23.png"
+  },
+  {
+    "id": 24,
+    "question": "Ҳисоб кунед:",
+    "options": ["23,6", "1,05", "7,4", "8,65"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/24.png"
+  },
+  {
+    "id": 25,
+    "question": "Ҳисоб кунед:",
+    "options": ["1,4", "—10,4", "0,9", "5,8"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/25.png"
+  },
+  {
+    "id": 26,
+    "question": "Ҳисоб кунед:",
+    "options": ["0", "4,2", "18,9", "42"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/26.png"
+  },
+  {
+    "id": 27,
+    "question": "Ҳисоб кунед:",
+    "options": ["—3,1", "108,9", "0", "121"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/27.png"
+  },
+  {
+    "id": 28,
+    "question": "Дар ҷойи холӣ кадом ададро навиштан лозим аст, ки баробарӣ дуруст шавад?",
+    "options": ["10", "62", "21", "90"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/28.png"
+  },
+  {
+    "id": 29,
+    "question": "Дар ҷойи холӣ кадом ададро навиштан лозим аст, ки баробарӣ дуруст шавад?",
+    "options": ["40", "0", "4", "21"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/29.png"
+  },
+  {
+    "id": 30,
+    "question": "Дар ҷойи холӣ кадом ададро навиштан лозим аст, ки баробарӣ дуруст шавад?",
+    "options": ["8", "43", "9", "32"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/30.png"
   }
 ]
