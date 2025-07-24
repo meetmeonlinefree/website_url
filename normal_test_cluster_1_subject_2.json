@@ -2376,5 +2376,1687 @@
     ],
     "correctIndex": 2,
     "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/300.png"
+  },
+    {
+    "id": 301,
+    "question": "Миқдори ҳалҳои бутуни системаи нобаробариро ёбед:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/301.png"
+  },
+  {
+    "id": 302,
+    "question": "Миқдори ҳалҳои бутуни системаи нобаробариро ёбед:",
+    "options": [
+      "5",
+      "3",
+      "7",
+      "6"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/302.png"
+  },
+  {
+    "id": 303,
+    "question": "Миқдори ҳалҳои бутуни системаи нобаробариро ёбед:",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/303.png"
+  },
+  {
+    "id": 304,
+    "question": "Нобаробариро чанд адади бутун қонеъ мекунад:",
+    "options": [
+      "8",
+      "7",
+      "10",
+      "9"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/304.png"
+  },
+  {
+    "id": 305,
+    "question": "Нобаробариро чанд адади натуралӣ қонеъ мекунад:",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/305.png"
+  },
+  {
+    "id": 306,
+    "question": "Нобаробариро чанд адади натуралӣ қонеъ мекунад:",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/306.png"
+  },
+  {
+    "id": 307,
+    "question": "Нобарбариро ҳал кунед:",
+    "options": [
+      "(—∞; —1)",
+      "(—1; 4)",
+      "(—4; 1)",
+      "(4; +∞)"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/307.png"
+  },
+  {
+    "id": 308,
+    "question": "Нобарбариро ҳал кунед:",
+    "options": [
+      "(—3; 4)",
+      "(3; +∞)",
+      "(—∞; —4)",
+      "(—4; 3)"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/308.png"
+  },
+  {
+    "id": 309,
+    "question": "Нобарбариро ҳал кунед:",
+    "options": [
+      "[2; 8]",
+      "(8; +∞]",
+      "(—∞; —2]",
+      "[—8; —2]"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/309.png"
+  },
+  {
+    "id": 310,
+    "question": "Қимати хурдтарини натуралии 𝒂-ро ёбед, ки барои он касри 𝒂 аз касри 𝒂 + 𝟏 калон аст.",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/310.png"
+  },
+    {
+    "id": 311,
+    "question": "Қимати хурдтарини натуралии 𝒙-ро ёбед, ки барои он касри",
+    "options": [
+      "29",
+      "31",
+      "28",
+      "30"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/311.png"
+  },
+  {
+    "id": 312,
+    "question": "Қимати калонтарини натуралии 𝒃-ро ёбед, ки барои он касри",
+    "options": [
+      "5",
+      "7",
+      "3",
+      "6"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/312.png"
+  },
+  {
+    "id": 313,
+    "question": "Нобаробариро ҳал кунед:",
+    "options": [
+      "[1; 2]",
+      "[1; 2)",
+      "(1; 2]",
+      "(1; 2)"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/313.png"
+  },
+  {
+    "id": 314,
+    "question": "Нобаробариро ҳал кунед:",
+    "options": [
+      "[—5; 3)",
+      "[—3; 5]",
+      "[3; 5]",
+      "(—5; 3]"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/314.png"
+  },
+  {
+    "id": 315,
+    "question": "Нобаробариро ҳал кунед:",
+    "options": [
+      "[2; 6]",
+      "[0; 6)",
+      "(2; 6]",
+      "(0; 6)"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/315.png"
+  },
+  {
+    "id": 316,
+    "question": "Ҳалли калонтарини бутуни манфии нобаробариро ёбед:",
+    "options": [
+      "—3",
+      "—1",
+      "—2",
+      "—5"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/316.png"
+  },
+  {
+    "id": 317,
+    "question": "Ҳалли калонтарини бутуни манфии нобаробариро ёбед:",
+    "options": [
+      "—4",
+      "—7",
+      "—5",
+      "—6"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/317.png"
+  },
+  {
+    "id": 318,
+    "question": "Ҳалли хурдтарини натуралии нобаробариро ёбед:",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7"
+    ],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/318.png"
+  },
+  {
+    "id": 319,
+    "question": "Ҳалли калонтарини натуралии нобаробариро ёбед:",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/319.png"
+  },
+  {
+    "id": 320,
+    "question": "Ҳалли хурдтарини натуралии нобаробариро ёбед:",
+    "options": [
+      "23",
+      "24",
+      "34",
+      "32"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/320.png"
+  },
+    {
+    "id": 321,
+    "question": "Ҳалли калонтарини натуралии нобаробариро ёбед:",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/321.png"
+  },
+  {
+    "id": 322,
+    "question": "Ҳалли калонтарини натуралии нобаробариро ёбед:",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/322.png"
+  },
+  {
+    "id": 323,
+    "question": "Ҳалли калонтарини бутуни манфии нобаробариро ёбед:",
+    "options": [
+      "—18",
+      "—22",
+      "—21",
+      "—20"
+    ],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/323.png"
+  },
+  {
+    "id": 324,
+    "question": "Ҳалли хурдтарини натуралии нобаробариро ёбед:",
+    "options": [
+      "9",
+      "18",
+      "8",
+      "17"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/324.png"
+  },
+  {
+    "id": 325,
+    "question": "∠ β = 480° дар кадом чоряк ҷойгир аст?",
+    "options": [
+      "IV",
+      "I",
+      "III",
+      "II"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/325.png"
+  },
+  {
+    "id": 326,
+    "question": "∠ β = 453° дар кадом чоряк ҷойгир аст?",
+    "options": [
+      "IV",
+      "I",
+      "III",
+      "II"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/326.png"
+  },
+  {
+    "id": 327,
+    "question": "∠ 𝜶 = —234° дар кадом чоряк ҷойгир аст?",
+    "options": [
+      "IV",
+      "II",
+      "III",
+      "I"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/327.png"
+  },
+  {
+    "id": 328,
+    "question": "Дар кадом чорякҳо синус манфӣ аст?",
+    "options": [
+      "III ва IV",
+      "I ва IV",
+      "I ва II",
+      "II ва III"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 329,
+    "question": "Дар кадом чорякҳо косинус мусбат аст?",
+    "options": [
+      "I ва IV",
+      "III ва IV",
+      "II ва III",
+      "I ва II"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 330,
+    "question": "Дар кадом чорякҳо косинус манфӣ аст?",
+    "options": [
+      "III ва IV",
+      "II ва III",
+      "I ва II",
+      "I ва IV"
+    ],
+    "correctIndex": 1
+  },
+    {
+    "id": 331,
+    "question": "Дар кадом чорякҳо котангенс мусбат аст?",
+    "options": [
+      "I ва III",
+      "II ва III",
+      "II ва IV",
+      "I ва IV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 332,
+    "question": "Ба тангенси кунҷи тез ифода кунед: 𝒕𝒈 𝟐𝟏𝟓°.",
+    "options": [
+      "—𝑡𝑔 35°",
+      "𝑡𝑔 25°",
+      "—𝑡𝑔 25°",
+      "𝑡𝑔 35°"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 333,
+    "question": "Ба синуси кунҷи тез ифода кунед: 𝒔𝒊𝒏 𝟑𝟕𝟕∘.",
+    "options": [
+      "𝑠𝑖𝑛 7∘",
+      "𝑠𝑖𝑛 37∘",
+      "𝑠𝑖𝑛 27∘",
+      "𝑠𝑖𝑛 17∘"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 334,
+    "question": "Ба котангенси кунҷи тез ифода кунед: 𝒄𝒕𝒈 𝟐𝟑𝟓∘.",
+    "options": [
+      "𝑐𝑡𝑔 25∘",
+      "𝑐𝑡𝑔 45∘",
+      "𝑐𝑡𝑔 35∘",
+      "𝑐𝑡𝑔 55∘"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 335,
+    "question": "Қимати ифодаро ёбед: 𝒔𝒊𝒏 𝟕𝟓𝟎∘.",
+    "options": [
+      "√3/2",
+      "1",
+      "√2/2",
+      "1/2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 336,
+    "question": "Қимати ифодаро ёбед: 𝒕𝒈 𝟑𝟗𝟎∘.",
+    "options": [
+      "√3/3",
+      "1",
+      "√3",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 337,
+    "question": "Қимати ифодаро ёбед: 𝒄𝒐𝒔 𝟕𝟖𝟎∘.",
+    "options": [
+      "1",
+      "√2/2",
+      "1/2",
+      "√3/2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 338,
+    "question": "Қимати ифодаро ёбед: 𝟖𝒔𝒊𝒏𝟏𝟓° 𝒄𝒐𝒔𝟏𝟓°.",
+    "options": [
+      "0,5",
+      "2√3",
+      "2",
+      "4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 339,
+    "question": "Қимати ифодаро ёбед: (𝒔𝒊𝒏𝟒𝟓° + 𝒄𝒐𝒔𝟒𝟓°)𝟐",
+    "options": [
+      "1",
+      "4",
+      "0",
+      "2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 340,
+    "question": "Қимати ифодаро ёбед: (𝒄𝒐𝒔𝟕𝟓° — 𝒔𝒊𝒏𝟕𝟓°)𝟐",
+    "options": [
+      "0,5",
+      "2",
+      "0",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+    {
+    "id": 341,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["1", "—1", "0", "—1/2"],
+    "correctIndex": 0
+  },
+  {
+    "id": 342,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["√2/2", "√2", "1", "2"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/342.png"
+  },
+  {
+    "id": 343,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["36", "72", "9", "18"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/343.png"
+  },
+  {
+    "id": 344,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["8", "0", "4", "0,25"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/344.png"
+  },
+  {
+    "id": 345,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["20", "2", "4", "8"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/345.png"
+  },
+  {
+    "id": 346,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["10", "11", "13", "12,5"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/346.png"
+  },
+  {
+    "id": 347,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["9", "10", "9,5", "8"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/347.png"
+  },
+  {
+    "id": 348,
+    "question": "Қимати ифодаро ёбед:",
+    "options": ["13", "14", "15", "11"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/348.png"
+  },
+  {
+    "id": 349,
+    "question": "Ҳисоб кунед:",
+    "options": ["32", "16", "8", "64"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/349.png"
+  },
+  {
+    "id": 350,
+    "question": "Ҳисоб кунед:",
+    "options": ["37,5", "150", "75", "25,5"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/350.png"
+  },
+    {
+    "id": 351,
+    "question": "Ҳисоб кунед:",
+    "options": [
+      "2",
+      "10",
+      "20",
+      "15"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/351.png"
+  },
+  {
+    "id": 352,
+    "question": "Ҳисоб кунед:",
+    "options": [
+      "4",
+      "—20",
+      "10",
+      "—40"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/352.png"
+  },
+  {
+    "id": 353,
+    "question": "Ҳисоб кунед:",
+    "options": [
+      "15",
+      "30",
+      "60",
+      "75"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/353.png"
+  },
+  {
+    "id": 354,
+    "question": "Ҳисоб кунед:",
+    "options": [
+      "54",
+      "7",
+      "—14",
+      "—28"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/354.png"
+  },
+  {
+    "id": 355,
+    "question": "Дода шудааст: sin β = 0.8. Қимати cos β-ро ёбед.",
+    "options": [
+      "—0,6",
+      "0,6",
+      "0,8",
+      "—0,8"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/355.png"
+  },
+  {
+    "id": 356,
+    "question": "Дода шудааст: Қимати sin α-ро ёбед.",
+    "options": [
+      "—0,8",
+      "0,6",
+      "0,8",
+      "—0,6"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/356.png"
+  },
+  {
+    "id": 357,
+    "question": "Дода шудааст: Қимати sin α-ро ёбед.",
+    "options": [
+      "—1",
+      "— 8/17",
+      "1",
+      "— 4/17"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/357.png"
+  },
+  {
+    "id": 358,
+    "question": "Дода шудааст: Қимати cos 2α-ро ёбед.",
+    "options": [
+      "2/9",
+      "5/9",
+      "8/9",
+      "7/9"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/358.png"
+  },
+  {
+    "id": 359,
+    "question": "Дода шудааст: Қимати tg 2α-ро ёбед.",
+    "options": [
+      "4/5",
+      "3/4",
+      "2/3",
+      "4/3"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/359.png"
+  },
+  {
+    "id": 360,
+    "question": "Дода шудааст: α = 22.5°. Қимати cos 2α-ро ёбед.",
+    "options": [
+      "√2/2",
+      "1",
+      "1/2",
+      "√3/2"
+    ],
+    "correctIndex": 0
+  },
+    {
+    "id": 361,
+    "question": "Маълум, ки cos(x) - sin(x) = 0,25 аст. Қимати 16·sin²(x)-ро ҳисоб кунед.",
+    "options": [
+      "8",
+      "2,5",
+      "0,5",
+      "15"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 362,
+    "question": "Маълум аст, ки sin(t) + cos(t) = 0,8 аст. Қимати 5·sin(t)·cos(t)-ро ёбед.",
+    "options": [
+      "3,2",
+      "4,5",
+      "—0,9",
+      "—3"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 363,
+    "question": "Маълум, ки sin(t) - cos(t) = 0,5 аст. Қимати 8·sin(t)·cos(t)-ро ёбед.",
+    "options": [
+      "1,5",
+      "3",
+      "5",
+      "0,5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 364,
+    "question": "Агар tg(x) = 3 ва tg(x − y) = −2 бошад, қимати tg(y) ба чанд баробар аст?",
+    "options": [
+      "1,5",
+      "—2",
+      "5",
+      "—1"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 365,
+    "question": "Агар ctg(y) = 5 ва ctg(x + y) = 3 бошад, қимати ctg(x) ба чанд баробар аст?",
+    "options": [
+      "8",
+      "16",
+      "2",
+      "4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 366,
+    "question": "Агар tg(x) = 2 ва tg(x + y) = −1 бошад, қимати tg(y) ба чанд баробар аст?",
+    "options": [
+      "1",
+      "—2",
+      "3",
+      "—1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 367,
+    "question": "Ифодаро сода кунед: (sin(α) - cos(α)) / (sin(α) + cos(α))",
+    "options": [
+      "tg(α)",
+      "−ctg(α)",
+      "ctg(α)",
+      "−tg(α)"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/367.png"
+  },
+  {
+    "id": 368,
+    "question": "Ифодаро сода кунед: (1 − cos(α)) / sin(α)",
+    "options": [
+      "ctg(α)",
+      "−tg(α)",
+      "tg(α)",
+      "−ctg(α)"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/368.png"
+  },
+  {
+    "id": 369,
+    "question": "Ифодаро сода кунед: sin(α) / (1 + cos(α))",
+    "options": [
+      "ctg(α)",
+      "−tg(α)",
+      "tg(α)",
+      "−ctg(α)"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/369.png"
+  },
+  {
+    "id": 370,
+    "question": "Кадом адад яке аз решаҳои муодилаи cos⁶(x) − sin⁶(x) = −1 аст?",
+    "options": [
+      "π/4",
+      "3/π",
+      "6/π",
+      "8/π"
+    ],
+    "correctIndex": 2
+  },
+    {
+    "id": 371,
+    "question": "Кадом адад яке аз решаҳои муодилаи tg(3x) + ctg(3x) = 2 аст?",
+    "options": [
+      "π",
+      "3π/π",
+      "π/3",
+      "12"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 372,
+    "question": "Кадом адад яке аз решаҳои муодилаи cos⁴(x) + sin⁴(x) = 1 аст?",
+    "options": [
+      "π/3",
+      "π/6",
+      "π/8",
+      "π/12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 373,
+    "question": "Решаи калонтарини манфии муодиларо ёбед:",
+    "options": [
+      "−2",
+      "−0,5",
+      "−3",
+      "−1"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/373.png"
+  },
+  {
+    "id": 374,
+    "question": "Решаи хурдтарини мусбати муодиларо ёбед:",
+    "options": [
+      "4",
+      "6",
+      "1/3",
+      "2"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/374.png"
+  },
+  {
+    "id": 375,
+    "question": "Решаи калонтарини манфии муодиларо ёбед:",
+    "options": [
+      "−8",
+      "−0,25",
+      "−6",
+      "−4"
+    ],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/375.png"
+  },
+  {
+    "id": 376,
+    "question": "Ченаки градусии кунҷеро ёбед, ки муодилаи ctg(x + 90°) = −1-ро қаноат мекунад.",
+    "options": [
+      "45°",
+      "90°",
+      "135°",
+      "60°"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 377,
+    "question": "Ченаки градусии кунҷеро ёбед, ки муодилаи tg(x + 35°) = −√3-ро қаноат мекунад.",
+    "options": [
+      "35°",
+      "85°",
+      "45°",
+      "75°"
+    ],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/377.png"
+  },
+  {
+    "id": 378,
+    "question": "Ченаки градусии кунҷеро ёбед, ки муодилаи cos(x + 45°) = −0,5-ро қаноат мекунад.",
+    "options": [
+      "60°",
+      "45°",
+      "80°",
+      "75°"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 379,
+    "question": "Решаи хурдтарини мусбати муодилаи cos(5x) = 0,5-ро бо градус ёбед.",
+    "options": [
+      "5°",
+      "12°",
+      "6°",
+      "10°"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 380,
+    "question": "Решаи хурдтарини мусбати муодилаи tg(5x) = 1-ро бо градус ёбед.",
+    "options": [
+      "5°",
+      "9°",
+      "10°",
+      "15°"
+    ],
+    "correctIndex": 1
+  },
+    {
+    "id": 381,
+    "question": "Решаи хурдтарини мусбати муодилаи 𝒔𝒊𝒏²𝒙 = 𝟎,𝟓-ро бо градус ёбед.",
+    "options": ["20°", "10°", "5°", "15°"],
+    "correctIndex": 3
+  },
+  {
+    "id": 382,
+    "question": "Решаи муодилаи дар порчаи [𝝅 ; 𝝅] ёбед.",
+    "options": ["𝜋/6", "𝜋/4", "𝜋/2", "𝜋/3"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/382.png"
+  },
+  {
+    "id": 383,
+    "question": "Решаи муодилаи дар порчаи [—𝝅 ; 𝟎] ёбед.",
+    "options": ["—𝜋/8", "—𝜋/4", "—𝜋/12", "—𝜋/6"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/383.png"
+  },
+  {
+    "id": 384,
+    "question": "Решаи муодилаи дар порчаи [𝟎; 𝝅] ёбед.",
+    "options": ["𝜋/12", "𝜋/32", "𝜋/8", "𝜋/24"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/384.png"
+  },
+  {
+    "id": 385,
+    "question": "Ҳангоми 𝒙 ∈ [𝟎; 𝟐𝝅] будан муодилаи 𝒕𝒈 𝒙 = 𝟏 чанд реша дорад?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1
+  },
+  {
+    "id": 386,
+    "question": "Ҳангоми 𝒙 ∈ [𝟎; 𝝅] будан муодилаи 𝒄𝒕𝒈 𝒙 = √𝟑 чанд реша дорад?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 0
+  },
+  {
+    "id": 387,
+    "question": "Ҳангоми будан муодилаи 𝟐𝒄𝒐𝒔 𝟐𝒙 = 𝟏 чанд реша дорад?",
+    "options": ["3", "4", "1", "2"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/387.png"
+  },
+  {
+    "id": 388,
+    "question": "Ҳангоми 𝒙 ∈ [𝟎°; 𝟏𝟖𝟎°] будан муодилаи 𝟐𝐬𝒊𝒏 𝟐𝒙 = 𝟏 чанд реша дорад?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1
+  },
+  {
+    "id": 389,
+    "question": "Решаи хурдтарини мусбати муодиларо ёбед:",
+    "options": ["0,75", "0,5", "0,25", "1"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/389.png"
+  },
+  {
+    "id": 390,
+    "question": "Решаи хурдтарини мусбати муодиларо ёбед:",
+    "options": ["0", "1", "1,5", "0,5"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/390.png"
+  },
+    {
+    "id": 391,
+    "question": "Решаи хурдтарини мусбати муодиларо ёбед:",
+    "options": ["0,5", "3", "1", "0"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/391.png"
+  },
+  {
+    "id": 392,
+    "question": "Функсияи 𝒇(𝒙) = 𝟏𝟐𝒙𝟐 — 𝟏𝟕𝒙 + 𝟔 дода шудааст. Қимати 𝒇(𝟐)-ро ёбед.",
+    "options": ["14", "20", "10", "71"],
+    "correctIndex": 1
+  },
+  {
+    "id": 393,
+    "question": "Функсияи 𝒇(𝒙) = 𝟑𝒙𝟐 — 𝟏𝟓𝒙 — 𝟏𝟖 дода шудааст. Қимати 𝒇(—𝟒)-ро ёбед.",
+    "options": ["100", "90", "36", "—30"],
+    "correctIndex": 1
+  },
+  {
+    "id": 394,
+    "question": "Функсияи 𝒇(𝒙) = 𝟖𝒙𝟐 + 𝟐𝟏𝒙 — 𝟗 дода шудааст. Қимати 𝒇(—𝟑)-ро ёбед.",
+    "options": ["9", "—4", "0", "20"],
+    "correctIndex": 2
+  },
+  {
+    "id": 395,
+    "question": "Барои кадом қимати 𝒙 қимати функсияи (маълумот надорад) ба 6 баробар аст?",
+    "options": ["6", "3", "3", "6"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/395.png"
+  },
+  {
+    "id": 396,
+    "question": "Барои кадом қимати 𝒙 қимати функсияи (маълумот надорад) ба 3 баробар аст?",
+    "options": ["6", "6", "3", "3"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/396.png"
+  },
+  {
+    "id": 397,
+    "question": "Барои кадом қимати 𝒙 қимати функсияи (маълумот надорад) ба 6 баробар аст?",
+    "options": ["0", "6", "1", "2"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/397.png"
+  },
+  {
+    "id": 398,
+    "question": "Барои кадом қимати a нуқтаи M(a; 1,4) ба графики функсияи y = 3,5x тааллуқ дорад?",
+    "options": ["4,9", "2,5", "0,4", "2,1"],
+    "correctIndex": 2
+  },
+  {
+    "id": 399,
+    "question": "Барои кадом қимати b нуқтаи N(3,4; b) ба графики функсияи y = 3,5x + 0,1 тааллуқ дорад?",
+    "options": ["1", "12", "7", "6"],
+    "correctIndex": 1
+  },
+  {
+    "id": 400,
+    "question": "Барои кадом қимати b нуқтаи C(b; 0) ба графики функсияи y = 2,25x – 25,2 тааллуқ дорад?",
+    "options": ["25,2", "11,2", "27,45", "22,95"],
+    "correctIndex": 1
+  },
+    {
+    "id": 401,
+    "question": "Барои кадом қимати 𝒑 графикҳои функсияҳои 𝒚 = 𝟕𝒙 + 𝟓 ва 𝒚 = 𝒑 𝒙 — 𝟖 ба ҳамдигар параллел мебошанд?",
+    "options": ["5", "7", "35", "12"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/401.png"
+  },
+  {
+    "id": 402,
+    "question": "Барои кадом қимати 𝒌 графикҳои функсияҳои 𝒚 = 𝟑𝒙 — 𝟖 ва 𝒙+ 𝟓 ба ҳамдигар параллел мебошанд?",
+    "options": ["12", "6", "4", "3"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/402.png"
+  },
+  {
+    "id": 403,
+    "question": "Барои кадом қимати 𝒂 графики функсияҳои 𝒚 = 𝟐𝒙 — 𝟑 ва 𝒙 + 𝟏𝟓 ба ҳамдигар параллел мебошанд?",
+    "options": ["3", "2", "5", "6"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/403.png"
+  },
+  {
+    "id": 404,
+    "question": "Графики функсияи 𝒚 = 𝟏, 𝟐𝒙 — 𝟕 аз кадом нуқта мегузарад?",
+    "options": ["𝑁(—15; 25)", "𝑀(100; 113)", "𝐾(10; —5)", "𝐿(—20; 31)"],
+    "correctIndex": 1
+  },
+  {
+    "id": 405,
+    "question": "Графики функсияи 𝒚 = 𝟏, 𝟕𝒙 — 𝟗 аз кадом нуқта мегузарад?",
+    "options": ["𝑀(20; 25)", "𝑁(10; —8)", "𝐾(—40; 59)", "𝐿(50; —76)"],
+    "correctIndex": 0
+  },
+  {
+    "id": 406,
+    "question": "Графики функсияи 𝒚 = 𝟎, 𝟓𝒙 + 𝟏𝟑 аз кадом нуқта мегузарад?",
+    "options": ["𝑀(30; —28)", "𝑁(6; 21)", "𝐾(36; —31)", "𝐿(56; 41)"],
+    "correctIndex": 3
+  },
+  {
+    "id": 407,
+    "question": "Қимати 𝒂-ро ёбед, ки барои он хатҳои рости 𝒚 = 𝒂𝒙 — 𝟏 ва 𝒚 = 𝟐𝒙 + 𝟐 нуқтаи умумӣ надоранд.",
+    "options": ["𝑎 = 1", "𝑎 = —2", "𝑎 = —1", "𝑎 = 2"],
+    "correctIndex": 3
+  },
+  {
+    "id": 408,
+    "question": "Қимати 𝒃-ро ёбед, ки барои он хатҳои рости 𝒚 = 𝟔𝒙 — 𝟑 ва 𝒚 = —𝒃𝒙 + 𝟓 нуқтаи умумӣ надоранд.",
+    "options": ["𝑏 = 5", "𝑏 = —6", "𝑏 = —5", "𝑏 = 6"],
+    "correctIndex": 1
+  },
+  {
+    "id": 409,
+    "question": "Қимати 𝒎-ро ёбед, ки барои он хатҳои рости 𝒚 = 𝟕+ 𝒎𝒙 ва 𝒚 = 𝟒— 𝟖𝒙 нуқтаи умумӣ надоранд.",
+    "options": ["𝑚 = —8", "𝑚 = 7", "𝑚 = 4", "𝑚 = 0,5"],
+    "correctIndex": 0
+  },
+  {
+    "id": 410,
+    "question": "Графики функсияи 𝒚 = 𝟒𝒙 — 𝟑 дар кадом чорякҳои ҳамвории координатӣ ҷойгир аст?",
+    "options": ["I, II, III", "II, III, IV", "I, IV, III", "IV, I, II"],
+    "correctIndex": 2
+  },
+    {
+    "id": 411,
+    "question": "Графики функсияи 𝒚 = —𝟑𝒙 + 𝟓 дар кадом чорякҳои ҳамвории координатӣ ҷойгир аст?",
+    "options": ["II, I, IV", "II, III, IV", "I, IV, III", "I, II, III"],
+    "correctIndex": 0
+  },
+  {
+    "id": 412,
+    "question": "Графики функсияи 𝒚 = 𝟏𝟎𝒙 + 𝟐 дар кадом чорякҳои ҳамвории координатӣ ҷойгир аст?",
+    "options": ["II, III, IV", "I, II, III", "II, I, IV", "I, IV, III"],
+    "correctIndex": 1
+  },
+  {
+    "id": 413,
+    "question": "Барои кадом қиматҳои 𝒙 қиматҳои функсияи 𝒚 = 𝟐, 𝟓𝒙 — 𝟐𝟎 мусбат аст?",
+    "options": ["(—∞; 8)", "(8; +∞)", "[0; 8]", "(—∞; 8]"],
+    "correctIndex": 1
+  },
+  {
+    "id": 414,
+    "question": "Барои кадом қиматҳои 𝒙 қиматҳои функсияи 𝒚 = 𝟐, 𝟒𝒙 — 𝟏𝟐 манфӣ аст?",
+    "options": ["(—∞; 5)", "(5; +∞)", "(—∞; 5]", "[0; 5]"],
+    "correctIndex": 0
+  },
+  {
+    "id": 415,
+    "question": "Барои кадом қиматҳои 𝒙 қиматҳои функсияи 𝒚 = 𝟑, 𝟓𝒙 + 𝟐𝟖 мусбат аст?",
+    "options": ["(—∞; —8)", "(—8; +∞)", "(—∞; —8]", "[—8; 0]"],
+    "correctIndex": 1
+  },
+  {
+    "id": 416,
+    "question": "Барои кадом қимати 𝒙 қимати функсияи 𝒚 = 𝟐𝒙𝟐 — 𝟐𝟖𝒙 + 𝟒𝟒 хурдтарин аст?",
+    "options": ["—14", "11", "7", "2"],
+    "correctIndex": 2
+  },
+  {
+    "id": 417,
+    "question": "Барои кадом қимати 𝒙 қимати функсияи 𝒚 = —𝟑𝒙𝟐 + 𝟐𝟒𝒙 — 𝟏𝟓 калонтарин аст?",
+    "options": ["8", "4", "6", "5"],
+    "correctIndex": 1
+  },
+  {
+    "id": 418,
+    "question": "Барои кадом қимати 𝒙 қимати функсияи 𝒚 = 𝟔𝒙𝟐 — 𝟑𝟔𝒙 — 𝟏𝟕 хурдтарин аст?",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 1
+  },
+  {
+    "id": 419,
+    "question": "Дарозии порчаи аз ибтидои тири координатӣ то нуқтаи буриши хатти рости 𝒚 = 𝟓𝒙 + 𝟔 бо тири ординатаро ёбед.",
+    "options": ["11", "6", "5", "9"],
+    "correctIndex": 1
+  },
+  {
+    "id": 420,
+    "question": "Дарозии порчаи аз ибтидои тири координатӣ то нуқтаи буриши хатти рости 𝒚 = 𝟒𝒙 — 𝟐𝟎 бо тири абсиссаро ёбед.",
+    "options": ["5", "20", "4", "10"],
+    "correctIndex": 0
+  },
+    {
+    "id": 421,
+    "question": "Дарозии порчаи аз ибтидои тири координатӣ то нуқтаи буриши хатти рости 𝒚 = —𝟑𝒙 + 𝟑𝟔 бо тири абсиссаро ёбед.",
+    "options": ["18", "36", "6", "12"],
+    "correctIndex": 3
+  },
+  {
+    "id": 422,
+    "question": "Дарозии порчаи байни нуқтаҳои буриши хатти рости бо тирҳои координатиро ёбед.",
+    "options": ["4", "5", "3", "8"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/422.png"
+  },
+  {
+    "id": 423,
+    "question": "Дарозии порчаи байни нуқтаҳои буриши хатти рости бо тирҳои координатиро ёбед.",
+    "options": ["10", "6", "8", "12"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/423.png"
+  },
+  {
+    "id": 424,
+    "question": "Дарозии порчаи байни нуқтаҳои буриши хатти рости бо тирҳои координатиро ёбед.",
+    "options": ["5", "11", "13", "12"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/424.png"
+  },
+  {
+    "id": 425,
+    "question": "Миқдори ададҳои бутун дар маҷмуи қиматҳои функсияи 𝒚 = 𝟓𝒄𝒐𝒔𝒙 + 𝟒 ба чанд баробар аст?",
+    "options": ["9", "4", "11", "12"],
+    "correctIndex": 2
+  },
+  {
+    "id": 426,
+    "question": "Миқдори ададҳои бутун дар маҷмуи қиматҳои функсияи 𝒚 = —𝟑𝒔𝒊𝒏𝒙 + 𝟕 ба чанд баробар аст?",
+    "options": ["3", "4", "8", "7"],
+    "correctIndex": 3
+  },
+  {
+    "id": 427,
+    "question": "Миқдори ададҳои бутун дар маҷмуи қиматҳои функсияи 𝒚 = —𝟔 — 𝟓𝒄𝒐𝒔𝒙 ба чанд баробар аст?",
+    "options": ["7", "4", "11", "5"],
+    "correctIndex": 2
+  },
+  {
+    "id": 428,
+    "question": "Миқдори ададҳои натуралӣ дар маҷмуи қиматҳои функсияи 𝒚 = —𝟒 + 𝟏𝟎𝒔𝒊𝒏𝒙 ба чанд баробар аст?",
+    "options": ["14", "7", "6", "21"],
+    "correctIndex": 2
+  },
+  {
+    "id": 429,
+    "question": "Миқдори ададҳои натуралӣ дар маҷмуи қиматҳои функсияи 𝒚 = 𝟔𝒄𝒐𝒔𝒙 + 𝟐 ба чанд баробар аст?",
+    "options": ["3", "4", "5", "8"],
+    "correctIndex": 3
+  },
+  {
+    "id": 430,
+    "question": "Миқдори ададҳои натуралӣ дар маҷмуи қиматҳои функсияи 𝒚 = —𝟑𝒔𝒊𝒏𝒙 + 𝟓 ба чанд баробар аст?",
+    "options": ["7", "4", "6", "2"],
+    "correctIndex": 0
+  },
+    {
+    "id": 431,
+    "question": "Абссиссаи нуқтаи буриши графики функсияҳои 𝒚 = 𝒙 ва 𝒚 = —𝒙 + 𝟒-ро ёбед.",
+    "options": ["2", "0", "3", "1"],
+    "correctIndex": 0
+  },
+  {
+    "id": 432,
+    "question": "Ординатаи нуқтаи буриши графики функсияҳои 𝒚 = 𝟐𝒙 — 𝟏𝟐 ва 𝒚 = —𝟒𝒙-ро ёбед.",
+    "options": ["—8", "2", "1", "—6"],
+    "correctIndex": 0
+  },
+  {
+    "id": 433,
+    "question": "Ординатаи нуқтаи буриши графики функсияҳои 𝒚 = 𝟓𝒙 ва 𝒚 = 𝟕𝒙 + 𝟏𝟒-ро ёбед.",
+    "options": ["—14", "7", "—35", "21"],
+    "correctIndex": 2
+  },
+  {
+    "id": 434,
+    "question": "Абссиссаи қуллаи параболаи 𝒚 = 𝒙𝟐 — 𝟔𝒙 — 𝟏𝟔-ро ёбед.",
+    "options": ["4", "2", "3", "6"],
+    "correctIndex": 2
+  },
+  {
+    "id": 435,
+    "question": "Абссиссаи қуллаи параболаи 𝒚 = 𝒙𝟐 — 𝟒𝒙 — 𝟑-ро ёбед.",
+    "options": ["3", "2", "8", "4"],
+    "correctIndex": 1
+  },
+  {
+    "id": 436,
+    "question": "Абссиссаи қуллаи параболаи 𝒚 = 𝒙𝟐 — 𝟓𝒙 + 𝟒-ро ёбед.",
+    "options": ["2,5", "1", "4", "3"],
+    "correctIndex": 0
+  },
+  {
+    "id": 437,
+    "question": "Графикҳои хатҳои рости 𝟑𝒙 — 𝒚 = 𝟑 ва 𝟐𝒙 + 𝒚 = 𝟕 ҳамдигарро дар нуқтаи 𝑴(𝒙𝟎; 𝒚𝟎) мебуранд. Қимати ифодаи 𝒙𝟎 + 𝒚𝟎-ро ёбед.",
+    "options": ["3", "2", "7", "5"],
+    "correctIndex": 3
+  },
+  {
+    "id": 438,
+    "question": "Графикҳои хатҳои рости 𝒙+ 𝒚 = 𝟗 ва 𝒙— 𝒚 = —𝟏 ҳамдигарро дар нуқтаи 𝑷(𝒙𝟎; 𝒚𝟎) мебуранд. Қимати ифодаи 𝒙𝟎 + 𝒚𝟎-ро ёбед.",
+    "options": ["10", "4", "9", "5"],
+    "correctIndex": 2
+  },
+  {
+    "id": 439,
+    "question": "Графикҳои хатҳои рости 𝟐𝒙 — 𝒚 = 𝟐 ва 𝟑𝒙 + 𝒚 = 𝟏𝟑 ҳамдигарро дар нуқтаи 𝑵(𝒙𝟎; 𝒚𝟎) мебуранд. Қимати ифодаи 𝒙𝟎 + 𝒚𝟎-ро ёбед.",
+    "options": ["7", "3", "13", "4"],
+    "correctIndex": 0
+  },
+  {
+    "id": 440,
+    "question": "Абссиссаи нуқтаи буриши хатҳои рости 𝒙— 𝒚 = 𝟏 ва 𝟑𝒙 + 𝟐𝒚 = 𝟐𝟑-ро ёбед.",
+    "options": ["1", "4", "5", "6"],
+    "correctIndex": 2
+  },
+    {
+    "id": 441,
+    "question": "Абссиссаи нуқтаи буриши хатҳои рости 𝒚 = —𝟎, 𝟓𝒙 + 𝟔, 𝟓 ва 𝒚 = 𝟎, 𝟐𝒙 + 𝟒, 𝟒-ро ёбед.",
+    "options": ["5", "8", "1", "3"],
+    "correctIndex": 3
+  },
+  {
+    "id": 442,
+    "question": "Абссиссаи нуқтаи буриши хатҳои рости 𝒙— 𝒚 = 𝟐 ва 𝟐𝒙 + 𝟑𝒚 = 𝟏𝟗-ро ёбед.",
+    "options": ["4", "5", "2", "3"],
+    "correctIndex": 1
+  },
+  {
+    "id": 443,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[—1; 1]", "(—1; 1]", "[—1; 1)", "(—1;1)"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/443.png"
+  },
+  {
+    "id": 444,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[—2; 2]", "(—2; 2]", "[—2; 2)", "(—2; 2)"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/444.png"
+  },
+  {
+    "id": 445,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[—5; 5)", "(—5; 5)", "[—5; 5]", "(—5; 5]"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/445.png"
+  },
+  {
+    "id": 446,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[—∞; 1]", "(—1; 1)", "[1; +∞)", "(—∞; 1)"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/446.png"
+  },
+  {
+    "id": 447,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[—∞; 1]", "(—∞; 1]", "[—∞; 1)", "(—∞; 1)"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/447.png"
+  },
+  {
+    "id": 448,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[—∞; 2]", "(—∞; 3]", "(2; +∞)", "(3; +∞)"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/448.png"
+  },
+  {
+    "id": 449,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[—5; 5)", "(—5; 5]", "(—5; 5)", "[—5; 5]"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/449.png"
+  },
+  {
+    "id": 450,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["(—7; 7)", "(—7; 7]", "[—7; 7)", "[—7; 7]"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/450.png"
+  },
+    {
+    "id": 451,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["(—8; 8)", "[—8; 8)", "(—8; 8]", "[—8; 8]"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/451.png"
+  },
+  {
+    "id": 452,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[1; 5]", "[1; 5)", "(1; 5]", "(1; 5)"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/452.png"
+  },
+  {
+    "id": 453,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["(—1; 5)", "(—1; 5]", "[—1; 5]", "[—1; 5)"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/453.png"
+  },
+  {
+    "id": 454,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[3; 5]", "(—3; 5]", "(—5; 3)", "[3; 5)"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/454.png"
+  },
+  {
+    "id": 455,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[3; 15]", "[—15; 3]", "(3; 15]", "[—3; 15]"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/455.png"
+  },
+  {
+    "id": 456,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[—12; +∞)", "[7; +∞)", "(—∞; 7]", "[—∞; —12]"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/456.png"
+  },
+  {
+    "id": 457,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[15; +∞)", "[8; +∞)", "(—∞; 15]", "(—∞; 8]"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/457.png"
+  },
+  {
+    "id": 458,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": [
+      "(—∞;—5) ⋃ (4; +∞)",
+      "(—∞; 4) ⋃ (5; +∞)",
+      "(—∞; 4) ⋃ (4; +∞)",
+      "(—∞; 4) ⋃ [5; +∞)"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/458.png"
+  },
+  {
+    "id": 459,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": [
+      "(—∞; —5) ⋃ [8; +∞)",
+      "(—∞; —8) ⋃ (5; +∞)",
+      "(—∞; 5) ⋃ (8; +∞)",
+      "(—∞; —5] ⋃ (8; +∞)"
+    ],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/459.png"
+  },
+  {
+    "id": 460,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": [
+      "(—∞; —7) ⋃ [3; +∞)",
+      "(—∞; —7) ⋃ (3; +∞)",
+      "(—∞; 3) ⋃ (7; +∞)",
+      "(—∞; —7] ⋃ (3; +∞)"
+    ],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/460.png"
+  },
+    {
+    "id": 461,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["(1; 5)", "[1; 5]", "[1; 5)", "(1; 5]"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/461.png"
+  },
+  {
+    "id": 462,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["(—7; 12)", "[—7; 12]", "[—12; 7)", "(7; 12]"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/462.png"
+  },
+  {
+    "id": 463,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["[4; 9]", "(—9; 4)", "[—4; 9)", "(4; 9]"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/463.png"
+  },
+  {
+    "id": 464,
+    "question": "Дар расм нишон дода шудааст, ки график- ҳои ду функсия ҳамдигарро дар нуқтаи координатаҳояш 𝒙𝟎 ва 𝒚𝟎 мебуранд. Қимати ифодаи 𝒙𝟎 ∙ 𝒚𝟎-ро ёбед.",
+    "options": ["4", "16", "8", "6"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/464.png"
+  },
+  {
+    "id": 465,
+    "question": "Дар расм нишон дода шудааст, ки график- ҳои ду функсия ҳамдигарро дар нуқтаи координатаҳояш 𝒙𝟎 ва 𝒚𝟎 мебуранд. Қимати ифодаи 𝒚𝟎 — 𝒙𝟎-ро ёбед.",
+    "options": ["9", "0", "3", "6"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/465.png"
+  },
+  {
+    "id": 466,
+    "question": "Дар расм нишон дода шудааст, ки график- ҳои ду функсия ҳамдигарро дар нуқтаи координатаҳояш 𝒙𝟎 ва 𝒚𝟎 мебуранд. Қимати ифодаи 𝒙𝟎 + 𝒚𝟎-ро ёбед.",
+    "options": ["5", "9", "10", "4"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/466.png"
+  },
+  {
+    "id": 467,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["(—5; 9]", "(—5; 9)", "[—5; 9]", "[—5; 9)"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/467.png"
+  },
+  {
+    "id": 468,
+    "question": "Соҳаи муайянии функсияро ёбед:",
+    "options": ["(—2; 6]", "(—2; 5)", "[—2; 6]", "[—2; 5]"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/468.png"
+  },
+  {
+    "id": 469,
+    "question": "Маҷмуи қиматҳои функсияро ёбед:",
+    "options": ["(—3; 2]", "(—7; 6)", "[—7; 6)", "[—3; 4]"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/469.png"
+  },
+  {
+    "id": 470,
+    "question": "Маҷмуи қиматҳои функсияро ёбед:",
+    "options": ["(—3; 2]", "(—7; 6)", "[—7; 6)", "[—3; 4]"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/470.png"
+  },
+    {
+    "id": 471,
+    "question": "Маҷмуи қиматҳои функсияро ёбед:",
+    "options": ["(—1; 4]", "[—1; 4]", "(—1; 4)", "[—1; 4)"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/471.png"
+  },
+  {
+    "id": 472,
+    "question": "Маҷмуи қиматҳои функсияро ёбед:",
+    "options": ["[—3; 4]", "[—5; 5]", "[—5; 5)", "(—3; 4)"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/472.png"
+  },
+  {
+    "id": 473,
+    "question": "Кадоме аз функсияҳо тоқ аст?",
+    "options": ["𝑦 = 𝑥4 + 𝑐𝑜𝑠𝑥", "𝑦 = 𝑡𝑔𝑥 + 𝑥2", "𝑦 = 𝑐𝑡𝑔𝑥 — 𝑥2", "𝑦 = 𝑠𝑖𝑛𝑥"],
+    "correctIndex": 3
+  },
+  {
+    "id": 474,
+    "question": "Кадоме аз функсияҳо тоқ аст?",
+    "options": ["𝑦 = —𝑠𝑖𝑛 𝑥 + 𝑥", "𝑦 = —𝑐𝑜𝑠 𝑥 + 𝑥2", "𝑦 = —𝑠𝑖𝑛 𝑥 — 𝑥2", "𝑦 = —𝑐𝑜𝑠 𝑥 — 𝑥"],
+    "correctIndex": 0
+  },
+  {
+    "id": 475,
+    "question": "Кадоме аз функсияҳо тоқ аст?",
+    "options": ["𝑦 = —𝑥2 + 𝑥", "𝑦 = —𝑥3 + 𝑥", "𝑦 = —𝑥4 + 𝑥2", "𝑦 = —𝑥3 + 𝑥2"],
+    "correctIndex": 1
+  },
+  {
+    "id": 476,
+    "question": "Кадоме аз функсияҳо ҷуфт аст?",
+    "options": ["𝑦 = —𝑠𝑖𝑛 𝑥 + 𝑥", "𝑦 = —𝑐𝑜𝑠 𝑥 + 𝑥2", "𝑦 = —𝑐𝑜𝑠 𝑥 — 𝑥", "𝑦 = —𝑠𝑖𝑛 𝑥 — 𝑥2"],
+    "correctIndex": 1
+  },
+  {
+    "id": 477,
+    "question": "Кадоме аз функсияҳо ҷуфт аст?",
+    "options": ["𝑦 = —𝑥2 + 𝑥", "𝑦 = —𝑥3 + 𝑥2", "𝑦 = —𝑥4 + 𝑥", "𝑦 = —𝑥4 + 𝑥2"],
+    "correctIndex": 3
+  },
+  {
+    "id": 478,
+    "question": "Кадоме аз функсияҳо ҷуфт аст?",
+    "options": ["𝑦 = 4𝑥3 — 4", "𝑦 = 6𝑥2 — 𝑥", "𝑦 = 8𝑥", "𝑦 = 5𝑥4"],
+    "correctIndex": 3
+  },
+  {
+    "id": 479,
+    "question": "Ҳосилаи функсияро ёбед:",
+    "options": ["2𝑥5", "10𝑥4", "10𝑥5", "5𝑥4"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/479.png"
+  },
+  {
+    "id": 480,
+    "question": "Ҳосилаи функсияро ёбед:",
+    "options": ["15𝑥2", "15𝑥4", "5𝑥4", "5𝑥2"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/480.png"
+  },
+    {
+    "id": 481,
+    "question": "Ҳосилаи функсияро ёбед:",
+    "options": ["24𝑥5", "4𝑥7", "—24𝑥5", "4𝑥7"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/481.png"
+  },
+  {
+    "id": 482,
+    "question": "Ҳосилаи функсияро ёбед:",
+    "options": ["—6𝑥⁻³", "6𝑥⁻¹", "6𝑥⁻³", "—6𝑥⁻¹"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/482.png"
+  },
+  {
+    "id": 483,
+    "question": "Ҳосилаи функсияро ёбед:",
+    "options": ["—24𝑥⁻5", "24𝑥⁻3", "—24𝑥⁻3", "24𝑥⁻5"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/483.png"
+  },
+  {
+    "id": 484,
+    "question": "Ҳосилаи функсияро ёбед:",
+    "options": ["45𝑥⁻4", "45𝑥⁻6", "—45𝑥4", "—45𝑥⁻6"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/484.png"
+  },
+  {
+    "id": 485,
+    "question": "Ҳосилаи функсияро ёбед:",
+    "options": ["—4𝑥 — 1", "—2𝑥 — 1", "—4𝑥 + 1", "—2𝑥 + 1"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/485.png"
+  },
+  {
+    "id": 486,
+    "question": "Ҳосилаи функсияро ёбед:",
+    "options": ["15𝑥2 — 1", "15𝑥4 — 1", "15𝑥2 + 2", "15𝑥4 + 2"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/486.png"
+  },
+  {
+    "id": 487,
+    "question": "Ҳосилаи функсияро ёбед:",
+    "options": ["1 + 20𝑥4", "—3 + 20𝑥6", "1 + 20𝑥6", "—3 + 20𝑥4"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/487.png"
+  },
+  {
+    "id": 488,
+    "question": "Қимати ҳосилаи функсияи 𝒇(𝒙) = 𝟑𝒙𝟑 — 𝟗𝒙 — 𝟓-ро дар нуқтаи 𝒙₀ = —𝟐 ёбед.",
+    "options": ["27", "36", "—27", "45"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/488.png"
+  },
+  {
+    "id": 489,
+    "question": "Қимати ҳосилаи функсияи 𝒇(𝒙) = —𝟐𝒙𝟒 — 𝟑𝒙𝟑 + 𝟕-ро дар нуқтаи 𝒙₀ = —𝟏 ёбед.",
+    "options": ["1", "17", "−1", "—17"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/489.png"
+  },
+  {
+    "id": 490,
+    "question": "Қимати ҳосилаи функсияи 𝒇(𝒙) = 𝒙— 𝟓𝒙² + 𝟒𝒙³ -ро дар нуқтаи 𝒙₀ = —𝟑 ёбед.",
+    "options": ["138", "139", "78", "79"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/490.png"
+  },
+    {
+    "id": 491,
+    "question": "Функсияи дода шудааст. Решаи мусбати муодилаи 𝒇'(𝒙) = 𝟎-ро ёбед.",
+    "options": ["2", "0", "3", "1"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/491.png"
+  },
+  {
+    "id": 492,
+    "question": "Функсияи дода шудааст. Решаи манфии муодилаи 𝒇'(𝒙) = 𝟎-ро ёбед.",
+    "options": ["—1", "—4", "—2", "—3"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/492.png"
+  },
+  {
+    "id": 493,
+    "question": "Функсияи дода шудааст. Решаи мусбати муодилаи 𝒇'(𝒙) = 𝟎-ро ёбед.",
+    "options": ["3", "1", "2", "0"],
+    "correctIndex": 1,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/493.png"
+  },
+  {
+    "id": 494,
+    "question": "Функсияи 𝒇(𝒙) = —𝒙² + 𝟔𝒙 — 𝟔 дода шудааст. Қимати 𝒙-ро ёбед, ки барои он баробарии 𝒇'(𝒙) = 𝟐 иҷро мешавад.",
+    "options": ["10", "—4", "—2", "2"],
+    "correctIndex": 3
+  },
+  {
+    "id": 495,
+    "question": "Функсияи 𝒇(𝒙) = 𝒙³ — 𝟖𝒙 + 𝟑𝒙² дода шудааст. Барои кадом қимати манфии 𝒙 баробарии 𝒇'(𝒙) = 𝟏 иҷро мешавад?",
+    "options": ["—2", "—4", "—1", "—3"],
+    "correctIndex": 3
+  },
+  {
+    "id": 496,
+    "question": "Функсияи 𝒇(𝒙) = 𝒙³ — 𝟑𝒙² + 𝟔𝒙 дода шудааст. Қимати 𝒙-ро ёбед, ки барои он баробарии 𝒇'(𝒙) = 𝟑 иҷро мешавад.",
+    "options": ["—18", "—1", "1", "18"],
+    "correctIndex": 2
+  },
+  {
+    "id": 497,
+    "question": "Функсияи дода шудааст. Решаи мусбати муодилаи 𝒇'(𝒙) = — 𝟏-ро ёбед.",
+    "options": ["1", "3", "4", "2"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/497.png"
+  },
+  {
+    "id": 498,
+    "question": "Функсияи дода шудааст. Решаи манфии муодилаи 𝒇'(𝒙) = — 𝟏 -ро ёбед.",
+    "options": ["—10", "—4", "—8", "—5"],
+    "correctIndex": 2,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/498.png"
+  },
+  {
+    "id": 499,
+    "question": "Функсияи дода шудааст. Решаи мусбати муодилаи 𝒇'(𝒙) = —𝟎, 𝟐𝟓-ро ёбед.",
+    "options": ["8", "3", "4", "5"],
+    "correctIndex": 3,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/499.png"
+  },
+  {
+    "id": 500,
+    "question": "Функсияи дода шудааст. Қимати 𝒂-ро ёбед.",
+    "options": ["4", "8", "16", "2"],
+    "correctIndex": 0,
+    "image": "https://raw.githubusercontent.com/meetmeonlinefree/website_url/refs/heads/main/math_images/500.png"
   }
 ]
